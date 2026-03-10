@@ -3,7 +3,7 @@ Welcome to the [DHS Section 508 Trusted Tester](https://www.dhs.gov/trusted-test
 
 ## DHS Trusted Tester
 
-### Session Schedula
+### Session Schedule
 1. [Session 1](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-1-what-is-section-508-functional-performance-criteria-and-testing-tools/), February 6: What is Section 508? Functional performance criteria and standards, getting familiar with testing tools and how they work
 2. [Session 2](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-2-auto-playing-and-auto-updating-content-flashing-1/), March 6: Auto-Playing and Auto-Updating Content + Flashing
 3. [Session 3](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-3-keyboard-access-and-focus/), March 12: Keyboard Access and Focus
@@ -16,3 +16,8 @@ Welcome to the [DHS Section 508 Trusted Tester](https://www.dhs.gov/trusted-test
 10. [Session 10](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-10-synchronized-media/), June 12: Synchronized Media
 11. [Session 11](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-11-resize-text-multiple-ways-parsing/), June 26: Resize Text, Multiple Ways, Parsing
 12. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A
+
+### Materials
+- [Study Group recordings playlist on YouTube](https://youtu.be/NzBo3sU0ki8)
+- [Session slides and transcripts on Google Drive](https://drive.google.com/drive/folders/1CGFlwLSGL_tt1RNw12vuuOZEB_jjCaL8?usp=drive_link)
+- [Short summaries on A11y News](https://a11ynews.substack.com/t/dhs-trusted-tester-study-group)
