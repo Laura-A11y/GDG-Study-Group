@@ -2,6 +2,8 @@
 Welcome to the [DHS Section 508 Trusted Tester](https://www.dhs.gov/trusted-tester) Study Group, hosted by GDG Vienna. This series builds on our previous [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series). If you are new to accessibility auditing, review the recordings in advance or in between sessions, as we won't go into details that have already been covered before.
 
 ## DHS Trusted Tester
+- [Trusted Tester: Section 508 Conformance Test Process For Web](https://section508coordinators.github.io/TrustedTester/)
+- [Test Process Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
 
 ### Session Schedule
 1. [Session 1](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-1-what-is-section-508-functional-performance-criteria-and-testing-tools/), February 6: What is Section 508? Functional performance criteria and standards, getting familiar with testing tools and how they work
