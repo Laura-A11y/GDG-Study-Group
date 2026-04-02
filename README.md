@@ -10,12 +10,17 @@ Welcome to the [DHS Section 508 Trusted Tester](https://www.dhs.gov/trusted-test
    - [Recording 1 on YouTube](https://www.youtube.com/watch?v=NzBo3sU0ki8)
    - [What is Section 508? Recap](https://a11ynews.substack.com/p/dhs-trusted-tester-study-group-session)
    - [Session 1 slides on Drive](https://docs.google.com/presentation/d/1OzgbS0gYW7WfkcNlJidiXFGZKYhtJR-fxXhBx1949oI/edit?usp=sharing)
-3. [Session 2](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-2-auto-playing-and-auto-updating-content-flashing-1/), March 6: Auto-Playing and Auto-Updating Content + Flashing
+2. [Session 2](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-2-auto-playing-and-auto-updating-content-flashing-1/), March 6: Auto-Playing and Auto-Updating Content + Flashing
     - [Recording 2 on YouTube](https://youtu.be/qkk0taTnXfk)
     - [Taming the Moving Parts: Auto-Playing, Blinking, and Flashing Content Recap](https://a11ynews.substack.com/p/taming-the-moving-parts-auto-playing)
     - [Session 2 slides on Drive](https://docs.google.com/presentation/d/1UIEd5lPAMm2eVdpdrgMlLVf2tDH717uRn4eBVVLIhjw/edit?usp=sharing) 
-5. [Session 3](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-3-keyboard-access-and-focus/), March 12: Keyboard Access and Focus
-6. [Session 4](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-4-forms/), March 20: Forms
+3. [Session 3](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-3-keyboard-access-and-focus/), March 12: Keyboard Access and Focus
+    - [Recording 3 Keyboard on YouTube](https://youtu.be/z_wxn6oWbqY)
+    - [Recap Keyboard Access and Focus](https://a11ynews.substack.com/p/keyboard-access-and-focus-dhs-trusted)
+    - [Session 3 slides on Drive](https://docs.google.com/presentation/d/1iBvZrJWWQIJ4liKzgKy4bDcOzyK2aegUJVjlZwLX99U/edit?usp=sharing)
+4. [Session 4](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-4-forms/), March 20: Forms
+    - [Recording 4 Forms on YouTube](https://youtu.be/sqDhtgusI8M)
+    - [Session 4 slides on Drive](https://docs.google.com/presentation/d/1fo2H9-1FOyze7H3SY35TIuOY1DpMQb2nkXvdlC1bWAE/edit?usp=sharing)
 7. [Session 5](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-5-links-images-adjustable-time-limits/), April 3: Links + Images + Adjustable Time Limits
 8. [Session 6](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-6-repetitive-content-content-structure/), April 17: Repetitive Content, Content Structure
 9. [Session 7](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-7-language-page-titles-frames-and-iframes/), May 1: Language, Page Titles, Frames & iFrames
