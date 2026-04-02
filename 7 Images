@@ -1,14 +1,12 @@
-# 7.B Decorative Image
+# Topic 7: Images
+
+## 7.B Decorative Image
 
 Test Requirement
 Recall that some decorative images are pure decoration, used only for visual formatting or are not presented visually to users. These images should always be marked as decorative to hide them from assistive technology (AT). However, for other images, it is not always clear whether they should be marked as decorative or meaningful. Web page authors may use images illustrate text content, suggest mood or tone, or create specific sensory experiences.
-
 For example, a paragraph about dogs might be accompanied by an image of a dog. It might seem obvious to consider this image as decorative. However, the author could have chosen the image to show a specific example or to add additional information, such as “My dog looks so happy.”
-
 For example, a paragraph about dogs might be accompanied by an image of a dog. It might seem obvious to consider this image as decorative. However, the author could have chosen the image to show a specific example or to add additional information, such as “My dog looks so happy.”
-
 As such, this test starts with the assumption that images with empty accessible names and images that are skipped by ANDI were intended by the author to be decorative. However, we still need to confirm that these images do not serve any important function, such as conveying information not available elsewhere on the page.
-
 There are various ways to mark up an image as decorative, such as:
 
 alt = “”
@@ -20,13 +18,13 @@ These will result in the image having an empty accessible name or description an
 
 The results from this test are used to determine if WCAG SC 1.1.1 Non-Text Content is met.
 
-## Method
-Visual and manual inspection of the page
+### Method
+- Visual and manual inspection of the page
 
-### Tool
+#### Tool
 - ANDI: Graphics/Images
 
-## Identifying Content
+### Identifying Content
 If available, select the “find background” button in ANDI: graphics/images to highlight all background images. (This button is not available if no background images are detected.) Exclude them from this test and test them under 7.C. Screenshot to illustrate preceding descriptions.
 Use ANDI: graphics/images to find all images on the page with empty accessible names (blank ANDI Output). Screenshot to illustrate preceding descriptions.
 Use ANDI: Focusable Elements (and/or ANDI: Links/Buttons if applicable) to check the ANDI Output of keyboard-focusable images, as they may be components of focusable elements. Use these results if they are different from the output of ANDI: Graphics/Images.
@@ -39,5 +37,26 @@ Because ANDI might not highlight or provide information for some images that hav
 Note:
 ANDI may skip background images and images with role=“presentation”, role=“none”, or aria-hidden=“true“.
 
-## Does Not Apply
+### Does Not Apply
 This test DOES NOT APPLY (DNA) to background images, images with non-empty accessible names, or if there are no images on the page.
+
+---------
+
+## 7.C Background Image
+Test Requirement
+The purpose of this test is to verify that a background image is not the only means used to convey important information. If Cascading Style Sheets (CSS) are used to display a meaningful background image, the image’s information must be available when the background image is hidden. CSS background images should either be purely decorative, or the meaning conveyed by the background images must be available elsewhere on the page. The results from this test are used to determine if WCAG SC1.1.1 Non-Text Content is met.
+
+### Method
+- Manual inspection of the page
+#### Tool
+- ANDI: Graphics/Images > Find Background/Hide Background buttons
+
+### Identifying Content
+Use ANDI: Graphics/Images to find CSS background images. Check if the “Find Background” and “Hide Background” buttons are available, which indicate background images were found.
+
+### Does Not Apply
+This Test Condition DOES NOT APPLY if there are no background images on the page.
+
+
+
+
