@@ -11,9 +11,9 @@ Welcome to the [DHS Section 508 Trusted Tester](https://www.dhs.gov/trusted-test
    - [What is Section 508? Recap](https://a11ynews.substack.com/p/dhs-trusted-tester-study-group-session)
    - [Session 1 slides on Drive](https://docs.google.com/presentation/d/1OzgbS0gYW7WfkcNlJidiXFGZKYhtJR-fxXhBx1949oI/edit?usp=sharing)
 3. [Session 2](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-2-auto-playing-and-auto-updating-content-flashing-1/), March 6: Auto-Playing and Auto-Updating Content + Flashing
- - [Recording 2 on YouTube](https://youtu.be/qkk0taTnXfk)
- - [Taming the Moving Parts: Auto-Playing, Blinking, and Flashing Content Recap](https://a11ynews.substack.com/p/taming-the-moving-parts-auto-playing)
- - [Session 2 slides on Drive](https://docs.google.com/presentation/d/1UIEd5lPAMm2eVdpdrgMlLVf2tDH717uRn4eBVVLIhjw/edit?usp=sharing) 
+    - [Recording 2 on YouTube](https://youtu.be/qkk0taTnXfk)
+    - [Taming the Moving Parts: Auto-Playing, Blinking, and Flashing Content Recap](https://a11ynews.substack.com/p/taming-the-moving-parts-auto-playing)
+    - [Session 2 slides on Drive](https://docs.google.com/presentation/d/1UIEd5lPAMm2eVdpdrgMlLVf2tDH717uRn4eBVVLIhjw/edit?usp=sharing) 
 5. [Session 3](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-3-keyboard-access-and-focus/), March 12: Keyboard Access and Focus
 6. [Session 4](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-4-forms/), March 20: Forms
 7. [Session 5](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-5-links-images-adjustable-time-limits/), April 3: Links + Images + Adjustable Time Limits
