@@ -7,17 +7,23 @@ Welcome to the [DHS Section 508 Trusted Tester](https://www.dhs.gov/trusted-test
 
 ### Session Schedule
 1. [Session 1](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-1-what-is-section-508-functional-performance-criteria-and-testing-tools/), February 6: What is Section 508? Functional performance criteria and standards, getting familiar with testing tools and how they work
-2. [Session 2](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-2-auto-playing-and-auto-updating-content-flashing-1/), March 6: Auto-Playing and Auto-Updating Content + Flashing
-3. [Session 3](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-3-keyboard-access-and-focus/), March 12: Keyboard Access and Focus
-4. [Session 4](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-4-forms/), March 20: Forms
-5. [Session 5](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-5-links-images-adjustable-time-limits/), April 3: Links + Images + Adjustable Time Limits
-6. [Session 6](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-6-repetitive-content-content-structure/), April 17: Repetitive Content, Content Structure
-7. [Session 7](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-7-language-page-titles-frames-and-iframes/), May 1: Language, Page Titles, Frames & iFrames
-8. [Session 8](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-8-sensory-characteristics-and-contrast-tables/), May 15: Sensory Characteristics and Contrast, Tables
-9. [Session 9](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-9-css-positioning-pre-recorded-audio-only-video-only-and-animations/), May 29: CSS Positioning + Pre-Recorded Audio-Only, Video-Only, and Animations
-10. [Session 10](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-10-synchronized-media/), June 12: Synchronized Media
-11. [Session 11](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-11-resize-text-multiple-ways-parsing/), June 26: Resize Text, Multiple Ways, Parsing
-12. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A
+   - [Recording 1 on YouTube](https://www.youtube.com/watch?v=NzBo3sU0ki8)
+   - [What is Section 508? Recap](https://a11ynews.substack.com/p/dhs-trusted-tester-study-group-session)
+   - [Session 1 slides on Drive](https://docs.google.com/presentation/d/1OzgbS0gYW7WfkcNlJidiXFGZKYhtJR-fxXhBx1949oI/edit?usp=sharing)
+3. [Session 2](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-2-auto-playing-and-auto-updating-content-flashing-1/), March 6: Auto-Playing and Auto-Updating Content + Flashing
+ - [Recording 2 on YouTube](https://youtu.be/qkk0taTnXfk)
+ - [Taming the Moving Parts: Auto-Playing, Blinking, and Flashing Content Recap](https://a11ynews.substack.com/p/taming-the-moving-parts-auto-playing)
+ - [Session 2 slides on Drive](https://docs.google.com/presentation/d/1UIEd5lPAMm2eVdpdrgMlLVf2tDH717uRn4eBVVLIhjw/edit?usp=sharing) 
+5. [Session 3](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-3-keyboard-access-and-focus/), March 12: Keyboard Access and Focus
+6. [Session 4](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-4-forms/), March 20: Forms
+7. [Session 5](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-5-links-images-adjustable-time-limits/), April 3: Links + Images + Adjustable Time Limits
+8. [Session 6](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-6-repetitive-content-content-structure/), April 17: Repetitive Content, Content Structure
+9. [Session 7](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-7-language-page-titles-frames-and-iframes/), May 1: Language, Page Titles, Frames & iFrames
+10. [Session 8](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-8-sensory-characteristics-and-contrast-tables/), May 15: Sensory Characteristics and Contrast, Tables
+11. [Session 9](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-9-css-positioning-pre-recorded-audio-only-video-only-and-animations/), May 29: CSS Positioning + Pre-Recorded Audio-Only, Video-Only, and Animations
+12. [Session 10](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-10-synchronized-media/), June 12: Synchronized Media
+13. [Session 11](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-11-resize-text-multiple-ways-parsing/), June 26: Resize Text, Multiple Ways, Parsing
+14. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A
 
 ### Materials
 - [Study Group recordings playlist on YouTube](https://youtu.be/NzBo3sU0ki8)
