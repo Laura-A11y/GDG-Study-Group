@@ -1,5 +1,5 @@
 # GDG-Study-Group
-Welcome to the [DHS Section 508 Trusted Tester](https://www.dhs.gov/trusted-tester) Study Group, hosted by GDG Vienna. This series builds on our previous [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series). If you are new to accessibility auditing, review the recordings in advance or in between sessions, as we won't go into details that have already been covered before.
+Welcome to the [DHS Section 508 Trusted Tester](https://section508coordinators.github.io/TrustedTester/) Study Group, hosted by GDG Vienna. This series builds on our previous [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series). If you are new to accessibility auditing, review the recordings in advance or in between sessions, as we won't go into details that have already been covered before.
 
 ## DHS Trusted Tester
 - [Trusted Tester: Section 508 Conformance Test Process For Web](https://section508coordinators.github.io/TrustedTester/)
@@ -22,16 +22,23 @@ Welcome to the [DHS Section 508 Trusted Tester](https://www.dhs.gov/trusted-test
     - [Recording 4 Forms on YouTube](https://youtu.be/sqDhtgusI8M)
     - [Session 4 slides on Drive](https://docs.google.com/presentation/d/1fo2H9-1FOyze7H3SY35TIuOY1DpMQb2nkXvdlC1bWAE/edit?usp=sharing)
     - [Forms Recap: Have you ever been personally victimized by an inaccessible form?](https://a11ynews.substack.com/p/have-you-ever-been-personally-victimized)
-7. [Session 5](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-5-links-images-adjustable-time-limits/), April 3: Links + Images + Adjustable Time Limits
-8. [Session 6](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-6-repetitive-content-content-structure/), April 17: Repetitive Content, Content Structure
-9. [Session 7](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-7-language-page-titles-frames-and-iframes/), May 1: Language, Page Titles, Frames & iFrames
-10. [Session 8](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-8-sensory-characteristics-and-contrast-tables/), May 15: Sensory Characteristics and Contrast, Tables
-11. [Session 9](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-9-css-positioning-pre-recorded-audio-only-video-only-and-animations/), May 29: CSS Positioning + Pre-Recorded Audio-Only, Video-Only, and Animations
-12. [Session 10](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-10-synchronized-media/), June 12: Synchronized Media
-13. [Session 11](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-11-resize-text-multiple-ways-parsing/), June 26: Resize Text, Multiple Ways, Parsing
-14. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A
+5. [Session 5](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-5-links-images-adjustable-time-limits/), April 3: Links + Images + Adjustable Time Limits
+    - [Recording 5: Links, Images, Time limits on YouTube](https://youtu.be/Nmow0jAdJ8Q)
+    - [Session 5 slides](https://docs.google.com/presentation/d/1cL5JYWQCR73aRFIFXNpBXt1rKqb0_zhISjJxyLIbsXY/edit?usp=sharing)
+    - [Session 5 testing and evaluation cheat sheet](https://docs.google.com/document/d/1Pf4LrRsX2zlHl0zLALUqM3yj7mC_RJBHjbxDtr3sW7Y/edit?usp=sharing)
+6. [Session 6](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-6-repetitive-content-content-structure/), April 24: Repetitive Content, Content Structure
+7. [Session 7](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-7-language-page-titles-frames-and-iframes/), May 1: Language, Page Titles, Frames & iFrames
+8. [Session 8](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-8-sensory-characteristics-and-contrast-tables/), May 15: Sensory Characteristics and Contrast, Tables
+9. [Session 9](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-9-css-positioning-pre-recorded-audio-only-video-only-and-animations/), May 29: CSS Positioning + Pre-Recorded Audio-Only, Video-Only, and Animations
+10. [Session 10](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-10-synchronized-media/), June 12: Synchronized Media
+11. [Session 11](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-11-resize-text-multiple-ways-parsing/), June 26: Resize Text, Multiple Ways, Parsing
+12. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A
 
-### Materials
+## Materials
 - [Study Group recordings playlist on YouTube](https://youtu.be/NzBo3sU0ki8)
 - [Session slides and transcripts on Google Drive](https://drive.google.com/drive/folders/1CGFlwLSGL_tt1RNw12vuuOZEB_jjCaL8?usp=drive_link)
 - [Short summaries on A11y News](https://a11ynews.substack.com/t/dhs-trusted-tester-study-group)
+- [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series)
+- [WebAIM Million Report](https://webaim.org/projects/million/)
+- [DHS Section 508 Coordinators: Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
+- [DHS Trusted Tester Training  & Certification](https://www.dhs.gov/trusted-tester)
