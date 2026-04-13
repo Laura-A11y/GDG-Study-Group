@@ -13,6 +13,7 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
 ## DHS Trusted Tester
 - [Trusted Tester: Section 508 Conformance Test Process For Web](https://section508coordinators.github.io/TrustedTester/)
 - [Test Process Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
+- - [DHS Trusted Tester Training  & Certification](https://www.dhs.gov/trusted-tester)
 
 ### Session Schedule
 1. [Session 1](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-1-what-is-section-508-functional-performance-criteria-and-testing-tools/), February 6: What is Section 508? Functional performance criteria and standards, getting familiar with testing tools and how they work
@@ -51,4 +52,3 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
 - [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series)
 - [WebAIM Million Report](https://webaim.org/projects/million/)
 - [DHS Section 508 Coordinators: Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
-- [DHS Trusted Tester Training  & Certification](https://www.dhs.gov/trusted-tester)
