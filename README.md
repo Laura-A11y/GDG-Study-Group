@@ -1,6 +1,15 @@
 # GDG-Study-Group
 Welcome to the [DHS Section 508 Trusted Tester](https://section508coordinators.github.io/TrustedTester/) Study Group, hosted by GDG Vienna. This series builds on our previous [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series). If you are new to accessibility auditing, review the recordings in advance or in between sessions, as we won't go into details that have already been covered before.
 
+## Accessibility on GDG Vienna
+GDG Vienna is committed to creating an inclusive learning environment. However, we are aware of limitations within our platforms. Should you encounter barriers, please reach out either here or via the GDG Vienna page and we will do our best to get you the learning materials in a suitable format.
+
+### Community Feedback that has been implemented (accessibility patch notes):
+- Live study group sessions are recorded on YouTube, so that participants from other time zones can take part as well.
+- Knowledge Check question format was unclear, so session 2 included a segment on how to answer them. If requested, we will repeat this segment in the last session too.
+- Subtitles move quickly during live sessions, therefore the blog post summaries now also include a video with open captions instead of an embedded YouTube link.
+- Test ID testing processed can build on previous test IDs, which can become hard to follow on slides alone. For the live sessions, participants get a "cheat sheet" handout with the testing steps and evaluation questions to follow along.
+
 ## DHS Trusted Tester
 - [Trusted Tester: Section 508 Conformance Test Process For Web](https://section508coordinators.github.io/TrustedTester/)
 - [Test Process Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
@@ -8,7 +17,7 @@ Welcome to the [DHS Section 508 Trusted Tester](https://section508coordinators.g
 ### Session Schedule
 1. [Session 1](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-1-what-is-section-508-functional-performance-criteria-and-testing-tools/), February 6: What is Section 508? Functional performance criteria and standards, getting familiar with testing tools and how they work
    - [Recording 1 on YouTube](https://www.youtube.com/watch?v=NzBo3sU0ki8)
-   - [What is Section 508? Recap](https://a11ynews.substack.com/p/dhs-trusted-tester-study-group-session)
+   - [What is Section 508? Recap](https://a11ynews.substack.com/p/dhs-trusted-tester-study-group-session) with open captions
    - [Session 1 slides on Drive](https://docs.google.com/presentation/d/1OzgbS0gYW7WfkcNlJidiXFGZKYhtJR-fxXhBx1949oI/edit?usp=sharing)
 2. [Session 2](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-2-auto-playing-and-auto-updating-content-flashing-1/), March 6: Auto-Playing and Auto-Updating Content + Flashing
     - [Recording 2 on YouTube](https://youtu.be/qkk0taTnXfk)
@@ -22,6 +31,7 @@ Welcome to the [DHS Section 508 Trusted Tester](https://section508coordinators.g
     - [Recording 4 Forms on YouTube](https://youtu.be/sqDhtgusI8M)
     - [Session 4 slides on Drive](https://docs.google.com/presentation/d/1fo2H9-1FOyze7H3SY35TIuOY1DpMQb2nkXvdlC1bWAE/edit?usp=sharing)
     - [Forms Recap: Have you ever been personally victimized by an inaccessible form?](https://a11ynews.substack.com/p/have-you-ever-been-personally-victimized)
+    - [Forms Testing & Evaluation cheat sheet](https://docs.google.com/document/d/1yBPnFLdFAi7Hq8XxCG-bdz_ckdL62pCS/edit?usp=sharing&ouid=105022499518565192979&rtpof=true&sd=true)
 5. [Session 5](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-5-links-images-adjustable-time-limits/), April 3: Links + Images + Adjustable Time Limits
     - [Recording 5: Links, Images, Time limits on YouTube](https://youtu.be/Nmow0jAdJ8Q)
     - [Session 5 slides](https://docs.google.com/presentation/d/1cL5JYWQCR73aRFIFXNpBXt1rKqb0_zhISjJxyLIbsXY/edit?usp=sharing)
