@@ -52,9 +52,9 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
 12. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A
 
 ## Materials
-- [Study Group recordings playlist on YouTube](https://youtu.be/NzBo3sU0ki8)
+- [Study Group recordings playlist on YouTube]([https://youtu.be/NzBo3sU0ki8](https://youtube.com/playlist?list=PLQN7HPPPGKO37Y4hrmArkoKDJcjEf_MQr&si=Vy_tRA6u6U6jIdCi))
 - [Session slides and transcripts on Google Drive](https://drive.google.com/drive/folders/1CGFlwLSGL_tt1RNw12vuuOZEB_jjCaL8?usp=drive_link)
 - [Short summaries on A11y News](https://a11ynews.substack.com/t/dhs-trusted-tester-study-group)
-- [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series)
+- [Accessibility Webinar Series Archive](https://www.accessibilityfirst.at/webinar-series)
 - [WebAIM Million Report](https://webaim.org/projects/million/)
 - [DHS Section 508 Coordinators: Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
