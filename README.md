@@ -46,6 +46,9 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
    - [Slides 7](https://docs.google.com/presentation/d/1D4JP38FvbAVLBR7QOq-FObBBii9D1ouDYhoj5Ggwm3s/edit?usp=drive_link)
    - [Cheat Sheet 7](https://docs.google.com/document/d/15fN9V_e9a_zGWV-Wxb6uOrRKSYlbhlVOAZzW0NY476s/edit?usp=drive_link)
 8. [Session 8](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-8-sensory-characteristics-and-contrast-tables/), May 15: Sensory Characteristics and Contrast, Tables
+   - [cheat sheet for topic 13 Sensory Characteristics](https://docs.google.com/document/d/1qk42Aeb9vlMEE4bQRZbcibAW2SjsOK5XrLYRdTZunos/edit?usp=sharing)
+   - [cheat sheet for topic 14 Tables](https://docs.google.com/document/d/1K2qBVGTmeLn1p0y2oQNFtexo3cBaI6U-TKQB4m4DHnc/edit?usp=sharing)
+   - [Slides session 8](https://docs.google.com/presentation/d/1HjR5hkh-FBuFbu-LlWUB3TnLuPigaZYpixvQtso8Ax0/edit?usp=sharing)
 9. [Session 9](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-9-css-positioning-pre-recorded-audio-only-video-only-and-animations/), May 29: CSS Positioning + Pre-Recorded Audio-Only, Video-Only, and Animations
 10. [Session 10](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-10-synchronized-media/), June 12: Synchronized Media
 11. [Session 11](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-11-resize-text-multiple-ways-parsing/), June 26: Resize Text, Multiple Ways, Parsing
