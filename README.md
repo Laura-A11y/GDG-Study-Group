@@ -48,23 +48,32 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
    - [Slides 7](https://docs.google.com/presentation/d/1D4JP38FvbAVLBR7QOq-FObBBii9D1ouDYhoj5Ggwm3s/edit?usp=drive_link)
    - [Cheat Sheet 7](https://docs.google.com/document/d/15fN9V_e9a_zGWV-Wxb6uOrRKSYlbhlVOAZzW0NY476s/edit?usp=drive_link)
    - [Summary: Watch your Language (attribute)](https://a11ynews.substack.com/p/watch-your-language-attributes-section)
-8. [Session 8](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-8-sensory-characteristics-and-contrast-tables/), May 15: Sensory Characteristics and Contrast, Tables
+8. Sensory Characteristics and Contrast, Tables
    - [Recording 8](https://youtu.be/91v_paxSp3M?si=womaeVi65dK2XXE5)
    - [Slides 8](https://docs.google.com/presentation/d/1HjR5hkh-FBuFbu-LlWUB3TnLuPigaZYpixvQtso8Ax0/edit?usp=sharing)
    - [cheat sheet for topic 13 Sensory Characteristics](https://docs.google.com/document/d/1qk42Aeb9vlMEE4bQRZbcibAW2SjsOK5XrLYRdTZunos/edit?usp=sharing)
    - [cheat sheet for topic 14 Tables](https://docs.google.com/document/d/1K2qBVGTmeLn1p0y2oQNFtexo3cBaI6U-TKQB4m4DHnc/edit?usp=sharing)
    - [Slides session 8](https://docs.google.com/presentation/d/1HjR5hkh-FBuFbu-LlWUB3TnLuPigaZYpixvQtso8Ax0/edit?usp=sharing)
    - [Summary: Sensory Characteristics & Tables](https://a11ynews.substack.com/p/sensory-characteristics-and-tables)
-9. [Session 9](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-9-css-positioning-pre-recorded-audio-only-video-only-and-animations/), May 29: CSS Positioning + Pre-Recorded Audio-Only, Video-Only, and Animations
+9. CSS Positioning + Pre-Recorded Audio-Only, Video-Only, and Animations
     - [Recording 9](https://youtu.be/GmEKiHdOSnk)
     - [Slides 9](https://docs.google.com/presentation/d/1val8eclPPlELJsjaoyYQBbGIOlZuwzaVMLJIz8h_5ho/edit?usp=sharing)
     - Summary: tbd
 10. [Session 10](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-10-synchronized-media/), June 12: Synchronized Media
+    - Recording: tbd
+    - Slides: tbd
+    - Summary: tbd
 11. [Session 11](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-11-resize-text-multiple-ways-parsing/), June 26: Resize Text, Multiple Ways, Parsing
-12. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A
+    - Recording: tbd
+    - Slides: tbd
+    - Summary: tbd
+12. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A and Tips for taking the Trusted Tester Exam
+    - Recording: tbd
+    - Slides: tbd
+    - Summary: tbd
 
 ## Materials
-- [Study Group recordings playlist on YouTube]([https://youtu.be/NzBo3sU0ki8](https://youtube.com/playlist?list=PLQN7HPPPGKO37Y4hrmArkoKDJcjEf_MQr&si=Vy_tRA6u6U6jIdCi))
+- [Study Group recordings playlist on YouTube](https://youtu.be/NzBo3sU0ki8)
 - [Session slides and transcripts on Google Drive](https://drive.google.com/drive/folders/1CGFlwLSGL_tt1RNw12vuuOZEB_jjCaL8?usp=drive_link)
 - [Short summaries on A11y News](https://a11ynews.substack.com/t/dhs-trusted-tester-study-group)
 - [Accessibility Webinar Series Archive](https://www.accessibilityfirst.at/webinar-series)
