@@ -37,19 +37,28 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
     - [Recording 5: Links, Images, Time limits on YouTube](https://youtu.be/Nmow0jAdJ8Q)
     - [Session 5 slides](https://docs.google.com/presentation/d/1cL5JYWQCR73aRFIFXNpBXt1rKqb0_zhISjJxyLIbsXY/edit?usp=sharing)
     - [Session 5 testing and evaluation cheat sheet](https://docs.google.com/document/d/1Pf4LrRsX2zlHl0zLALUqM3yj7mC_RJBHjbxDtr3sW7Y/edit?usp=sharing)
+    - [Summary: Why the "Easy" Web Accessibility Fixes Are Still Failing Half the Web](https://a11ynews.substack.com/p/why-the-easy-web-accessibility-fixes)
 6. Repetitive Content, Content Structure
    - [Recording 6](https://youtu.be/9FlhwOSE5gI?si=I_tGVcBbE76cHAgN)
    - [Session 6 slides](https://docs.google.com/presentation/d/1OjD1JBBX9eV4y4Dyhjmoxcz7DctQxZCyzw_pFGoVcj4/edit?usp=drive_link)
    - [Session 6 cheat sheet](https://docs.google.com/document/d/1cKDpIrzaN5mvRlWDW73UZH22S3_IM1VH1s6eIGcHQp4/edit?usp=drive_link)
+   - [Summary: Styling Isn't Structure](https://a11ynews.substack.com/p/styling-isnt-structure-how-to-spot)
 7. Language, Page Titles, Frames & iFrames
    - [Recording 7](https://youtu.be/TZTqGwX7mPc?si=OLauJQllCAvwbu9Z)
    - [Slides 7](https://docs.google.com/presentation/d/1D4JP38FvbAVLBR7QOq-FObBBii9D1ouDYhoj5Ggwm3s/edit?usp=drive_link)
    - [Cheat Sheet 7](https://docs.google.com/document/d/15fN9V_e9a_zGWV-Wxb6uOrRKSYlbhlVOAZzW0NY476s/edit?usp=drive_link)
+   - [Summary: Watch your Language (attribute)](https://a11ynews.substack.com/p/watch-your-language-attributes-section)
 8. [Session 8](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-8-sensory-characteristics-and-contrast-tables/), May 15: Sensory Characteristics and Contrast, Tables
+   - [Recording 8](https://youtu.be/91v_paxSp3M?si=womaeVi65dK2XXE5)
+   - [Slides 8](https://docs.google.com/presentation/d/1HjR5hkh-FBuFbu-LlWUB3TnLuPigaZYpixvQtso8Ax0/edit?usp=sharing)
    - [cheat sheet for topic 13 Sensory Characteristics](https://docs.google.com/document/d/1qk42Aeb9vlMEE4bQRZbcibAW2SjsOK5XrLYRdTZunos/edit?usp=sharing)
    - [cheat sheet for topic 14 Tables](https://docs.google.com/document/d/1K2qBVGTmeLn1p0y2oQNFtexo3cBaI6U-TKQB4m4DHnc/edit?usp=sharing)
    - [Slides session 8](https://docs.google.com/presentation/d/1HjR5hkh-FBuFbu-LlWUB3TnLuPigaZYpixvQtso8Ax0/edit?usp=sharing)
+   - [Summary: Sensory Characteristics & Tables](https://a11ynews.substack.com/p/sensory-characteristics-and-tables)
 9. [Session 9](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-9-css-positioning-pre-recorded-audio-only-video-only-and-animations/), May 29: CSS Positioning + Pre-Recorded Audio-Only, Video-Only, and Animations
+    - [Recording 9](https://youtu.be/GmEKiHdOSnk)
+    - [Slides 9](https://docs.google.com/presentation/d/1val8eclPPlELJsjaoyYQBbGIOlZuwzaVMLJIz8h_5ho/edit?usp=sharing)
+    - Summary: tbd
 10. [Session 10](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-10-synchronized-media/), June 12: Synchronized Media
 11. [Session 11](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-11-resize-text-multiple-ways-parsing/), June 26: Resize Text, Multiple Ways, Parsing
 12. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A
