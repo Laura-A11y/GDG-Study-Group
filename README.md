@@ -59,9 +59,10 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
     - [Recording 9](https://youtu.be/GmEKiHdOSnk)
     - [Slides 9](https://docs.google.com/presentation/d/1val8eclPPlELJsjaoyYQBbGIOlZuwzaVMLJIz8h_5ho/edit?usp=sharing)
     - Summary: tbd
-10. [Session 10](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-10-synchronized-media/), June 12: Synchronized Media
-    - Recording: tbd
-    - Slides: tbd
+10. Synchronized Media
+    - [Recording 10](https://youtu.be/C1M6YYs3Grs)
+    - [Slides session 10](https://docs.google.com/presentation/d/1SU2SrXtXVpEbTvV5m9p7jfD6vHmoM9f1VOCdLAW47cI/edit?usp=drive_link)
+    - [Testing cheat sheet for topic 17 Synchronized Media](https://docs.google.com/document/d/1PqLWaYznYBExnI1DFA4yuYMO3wXuxufKrPBB7xfE4go/edit?usp=drive_link)
     - Summary: tbd
 11. [Session 11](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-11-resize-text-multiple-ways-parsing/), June 26: Resize Text, Multiple Ways, Parsing
     - Recording: tbd
