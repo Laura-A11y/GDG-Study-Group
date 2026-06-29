@@ -53,20 +53,21 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
    - [Slides 8](https://docs.google.com/presentation/d/1HjR5hkh-FBuFbu-LlWUB3TnLuPigaZYpixvQtso8Ax0/edit?usp=sharing)
    - [cheat sheet for topic 13 Sensory Characteristics](https://docs.google.com/document/d/1qk42Aeb9vlMEE4bQRZbcibAW2SjsOK5XrLYRdTZunos/edit?usp=sharing)
    - [cheat sheet for topic 14 Tables](https://docs.google.com/document/d/1K2qBVGTmeLn1p0y2oQNFtexo3cBaI6U-TKQB4m4DHnc/edit?usp=sharing)
-   - [Slides session 8](https://docs.google.com/presentation/d/1HjR5hkh-FBuFbu-LlWUB3TnLuPigaZYpixvQtso8Ax0/edit?usp=sharing)
-   - [Summary: Sensory Characteristics & Tables](https://a11ynews.substack.com/p/sensory-characteristics-and-tables)
+   - Summary: [Sensory Characteristics & Tables](https://a11ynews.substack.com/p/sensory-characteristics-and-tables)
 9. CSS Positioning + Pre-Recorded Audio-Only, Video-Only, and Animations
     - [Recording 9](https://youtu.be/GmEKiHdOSnk)
     - [Slides 9](https://docs.google.com/presentation/d/1val8eclPPlELJsjaoyYQBbGIOlZuwzaVMLJIz8h_5ho/edit?usp=sharing)
-    - Summary: tbd
+    - Summary: [Navigating Order, Sound, and Silence](https://a11ynews.substack.com/p/navigating-order-sound-and-silence)
 10. Synchronized Media
     - [Recording 10](https://youtu.be/C1M6YYs3Grs)
     - [Slides session 10](https://docs.google.com/presentation/d/1SU2SrXtXVpEbTvV5m9p7jfD6vHmoM9f1VOCdLAW47cI/edit?usp=drive_link)
     - [Testing cheat sheet for topic 17 Synchronized Media](https://docs.google.com/document/d/1PqLWaYznYBExnI1DFA4yuYMO3wXuxufKrPBB7xfE4go/edit?usp=drive_link)
-    - Summary: tbd
-11. [Session 11](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-11-resize-text-multiple-ways-parsing/), June 26: Resize Text, Multiple Ways, Parsing
+    - Summary:[Buried Menus, Broken Toggles: The 7-Point Accessibility Gap of Synchronized Media](https://a11ynews.substack.com/p/buried-menus-broken-toggles-the-7)
+11. Resize Text, Multiple Ways, Parsing
     - Recording: tbd
-    - Slides: tbd
+    - [Slides session 11](https://docs.google.com/presentation/d/1rLQfZth3bZUswr02qmHwEffzZCHXuxD6Xey_yJuiyKw/edit?usp=sharing)
+    - [Testing cheat sheet topic 18: Resize Text](https://docs.google.com/document/d/1ABgsjtWFF3QPTODi6GD0r9nFnA_oYKSmfbRmEK1FooA/edit?usp=sharing)
+    - [Testing cheat sheet topic 19: Mulitple Ways](https://docs.google.com/document/d/1ZNT4enZ4b3Ldu9HnbXNvaLJ18DiPY67KxIGuuGe4zro/edit?usp=sharing)
     - Summary: tbd
 12. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A and Tips for taking the Trusted Tester Exam
     - Recording: tbd
@@ -80,3 +81,4 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
 - [Accessibility Webinar Series Archive](https://www.accessibilityfirst.at/webinar-series)
 - [WebAIM Million Report](https://webaim.org/projects/million/)
 - [DHS Section 508 Coordinators: Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
+- [ANDI Testing Tool](https://www.ssa.gov/accessibility/andi/help/install.html)
