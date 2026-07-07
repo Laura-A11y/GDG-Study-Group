@@ -64,11 +64,11 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
     - [Testing cheat sheet for topic 17 Synchronized Media](https://docs.google.com/document/d/1PqLWaYznYBExnI1DFA4yuYMO3wXuxufKrPBB7xfE4go/edit?usp=drive_link)
     - Summary:[Buried Menus, Broken Toggles: The 7-Point Accessibility Gap of Synchronized Media](https://a11ynews.substack.com/p/buried-menus-broken-toggles-the-7)
 11. Resize Text, Multiple Ways, Parsing
-    - Recording: tbd
+    - [Recording 11](https://www.youtube.com/watch?v=JAVKpVKV12M)
     - [Slides session 11](https://docs.google.com/presentation/d/1rLQfZth3bZUswr02qmHwEffzZCHXuxD6Xey_yJuiyKw/edit?usp=sharing)
     - [Testing cheat sheet topic 18: Resize Text](https://docs.google.com/document/d/1ABgsjtWFF3QPTODi6GD0r9nFnA_oYKSmfbRmEK1FooA/edit?usp=sharing)
     - [Testing cheat sheet topic 19: Mulitple Ways](https://docs.google.com/document/d/1ZNT4enZ4b3Ldu9HnbXNvaLJ18DiPY67KxIGuuGe4zro/edit?usp=sharing)
-    - Summary: tbd
+    - Summary:[Resize Text, Multiple Ways & Why Parsing is part of History](https://a11ynews.substack.com/p/resize-text-multiple-ways-and-why)
 12. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A and Tips for taking the Trusted Tester Exam
     - Recording: tbd
     - Slides: tbd
