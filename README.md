@@ -1,5 +1,5 @@
 # GDG-Study-Group
-Welcome to the [DHS Section 508 Trusted Tester](https://section508coordinators.github.io/TrustedTester/) Study Group, hosted by GDG Vienna. This series builds on our previous [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series). If you are new to accessibility auditing, review the recordings in advance or in between sessions, as we won't go into details that have already been covered before.
+Welcome to the [DHS Section 508 Trusted Tester](https://section508coordinators.github.io/TrustedTester/) Study Group, hosted by [GDG Vienna](https://gdg.community.dev/gdg-vienna/). This series builds on our previous [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series). If you are new to accessibility auditing, review the recordings in advance or in between sessions, as we won't go into details that have already been covered before.
 
 ## Accessibility on GDG Vienna
 GDG Vienna is committed to creating an inclusive learning environment. However, we are aware of limitations within our platforms. Should you encounter barriers, please reach out either here or via the GDG Vienna page and we will do our best to get you the learning materials in a suitable format.
@@ -69,12 +69,14 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
     - [Testing cheat sheet topic 18: Resize Text](https://docs.google.com/document/d/1ABgsjtWFF3QPTODi6GD0r9nFnA_oYKSmfbRmEK1FooA/edit?usp=sharing)
     - [Testing cheat sheet topic 19: Mulitple Ways](https://docs.google.com/document/d/1ZNT4enZ4b3Ldu9HnbXNvaLJ18DiPY67KxIGuuGe4zro/edit?usp=sharing)
     - Summary:[Resize Text, Multiple Ways & Why Parsing is part of History](https://a11ynews.substack.com/p/resize-text-multiple-ways-and-why)
-12. [Session 12](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-12-conforming-alternate-version-and-non-interference-conformance-reporting-qampa/), July 10: Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A and Tips for taking the Trusted Tester Exam
+12. Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A and Tips for taking the Trusted Tester Exam
     - Recording: tbd
-    - Slides: tbd
+    - [Slides session 12](https://docs.google.com/presentation/d/1IQ9XxULGwut-riNljjmnUemWkuSfaq0EWPnzqBH8wKs/edit?usp=sharing)
+    - [Testing cheat sheet topic 1: Confroming Alternate Version and Non-Interference](https://docs.google.com/document/d/1UIaBc7euqNHiDyTlk8d9rTd4YGZrDo4opDTo7ZL_Smk/edit?usp=sharing)
     - Summary: tbd
 
 ## Materials
+- Join [GDG Vienna](https://gdg.community.dev/gdg-vienna/)
 - [Study Group recordings playlist on YouTube](https://youtu.be/NzBo3sU0ki8)
 - [Session slides and transcripts on Google Drive](https://drive.google.com/drive/folders/1CGFlwLSGL_tt1RNw12vuuOZEB_jjCaL8?usp=drive_link)
 - [Short summaries on A11y News](https://a11ynews.substack.com/t/dhs-trusted-tester-study-group)
