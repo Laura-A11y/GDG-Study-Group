@@ -8,7 +8,7 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
 - Live study group sessions are recorded on YouTube, so that participants from other time zones can take part as well.
 - Knowledge Check question format was unclear, so session 2 included a segment on how to answer them. If requested, we will repeat this segment in the last session too.
 - Subtitles move quickly during live sessions, therefore the blog post summaries now also include a video with open captions instead of an embedded YouTube link.
-- Test ID testing processed can build on previous test IDs, which can become hard to follow on slides alone. For the live sessions, participants get a "cheat sheet" handout with the testing steps and evaluation questions to follow along.
+- Test ID testing processes can build on previous test IDs, which can become hard to follow on slides alone. For the live sessions, participants get a "cheat sheet" handout with the testing steps and evaluation questions to follow along.
 
 ## DHS Trusted Tester
 - [Trusted Tester: Section 508 Conformance Test Process For Web](https://section508coordinators.github.io/TrustedTester/)
@@ -70,10 +70,11 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
     - [Testing cheat sheet topic 19: Mulitple Ways](https://docs.google.com/document/d/1ZNT4enZ4b3Ldu9HnbXNvaLJ18DiPY67KxIGuuGe4zro/edit?usp=sharing)
     - Summary:[Resize Text, Multiple Ways & Why Parsing is part of History](https://a11ynews.substack.com/p/resize-text-multiple-ways-and-why)
 12. Conforming Alternate Version and Non-Interference, Conformance Reporting, Q&A and Tips for taking the Trusted Tester Exam
-    - Recording: tbd
+    - [Recording 12](https://www.youtube.com/watch?v=rmyCKp8vpCw)
     - [Slides session 12](https://docs.google.com/presentation/d/1IQ9XxULGwut-riNljjmnUemWkuSfaq0EWPnzqBH8wKs/edit?usp=sharing)
     - [Testing cheat sheet topic 1: Confroming Alternate Version and Non-Interference](https://docs.google.com/document/d/1UIaBc7euqNHiDyTlk8d9rTd4YGZrDo4opDTo7ZL_Smk/edit?usp=sharing)
     - Summary: tbd
+    - [The 5 accessibility tests to run first | Section 508 Trusted Tester: Non-Interference](https://a11ynews.substack.com/p/non-interference-the-most-important)
 
 ## Materials
 - Join [GDG Vienna](https://gdg.community.dev/gdg-vienna/)
@@ -84,3 +85,4 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
 - [WebAIM Million Report](https://webaim.org/projects/million/)
 - [DHS Section 508 Coordinators: Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
 - [ANDI Testing Tool](https://www.ssa.gov/accessibility/andi/help/install.html)
+- [TGPI Contrast Checker](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3JRX0hJczdTMEVyR2xBSU1HZXhmaFNldzNhUXxBQ3Jtc0ttZmVTRlF6N2M1bURJUWFzWm9sSEMzcmVlbGQtTS1yUzlUWG9NbVBlNnNCSHFHa19lWGlHMzlSMXJMbThQdHB1elVmOXJFQjZ3cnNLYXNrazI1SEZ6LVh3N0JNNTdoeFhxZXM0clBqcFQtaDJMV25DZw&q=https%3A%2F%2Fwww.tpgi.com%2Fcolor-contrast-checker%2F&v=NzBo3sU0ki8) (any contrast checker will do)
