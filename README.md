@@ -11,11 +11,17 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
 - Test ID testing processes can build on previous test IDs, which can become hard to follow on slides alone. For the live sessions, participants get a "cheat sheet" handout with the testing steps and evaluation questions to follow along.
 
 ## DHS Trusted Tester
+The Trusted Tester is rigorous web accessibility testing process developed by the U.S. Department of Homeland Security. It covers 20 topics of accessibility issues, all based on WCAG and Section 508. The DHS offers a free course which was the foundation  for this study group. Enroll in the [Trusted Tester certificaiton course](https://training.section508testing.net/) and complete it to earn a certification. 
 - [Trusted Tester: Section 508 Conformance Test Process For Web](https://section508coordinators.github.io/TrustedTester/)
 - [Test Process Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
-- - [DHS Trusted Tester Training  & Certification](https://www.dhs.gov/trusted-tester)
+- [DHS Trusted Tester Training  & Certification](https://www.dhs.gov/trusted-tester)
 
-### Session Schedule
+### Testing Tools
+These testing tools are used in the Trusted Tester process. 
+- [ANDI Testing Tool](https://www.ssa.gov/accessibility/andi/help/install.html)
+- [TGPI Contrast Checker](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3JRX0hJczdTMEVyR2xBSU1HZXhmaFNldzNhUXxBQ3Jtc0ttZmVTRlF6N2M1bURJUWFzWm9sSEMzcmVlbGQtTS1yUzlUWG9NbVBlNnNCSHFHa19lWGlHMzlSMXJMbThQdHB1elVmOXJFQjZ3cnNLYXNrazI1SEZ6LVh3N0JNNTdoeFhxZXM0clBqcFQtaDJMV25DZw&q=https%3A%2F%2Fwww.tpgi.com%2Fcolor-contrast-checker%2F&v=NzBo3sU0ki8) (any contrast checker will do)
+
+### Study Group Sessions
 1. What is Section 508? Functional performance criteria and standards, getting familiar with testing tools and how they work
    - [Recording 1 on YouTube](https://www.youtube.com/watch?v=NzBo3sU0ki8)
    - [What is Section 508? Recap](https://a11ynews.substack.com/p/dhs-trusted-tester-study-group-session) with open captions
@@ -79,10 +85,10 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
 ## Materials
 - Join [GDG Vienna](https://gdg.community.dev/gdg-vienna/)
 - [Study Group recordings playlist on YouTube](https://youtu.be/NzBo3sU0ki8)
-- [Session slides and transcripts on Google Drive](https://drive.google.com/drive/folders/1CGFlwLSGL_tt1RNw12vuuOZEB_jjCaL8?usp=drive_link)
+- [Presentations and transcripts on Google Drive](https://drive.google.com/drive/folders/1CGFlwLSGL_tt1RNw12vuuOZEB_jjCaL8?usp=drive_link)
 - [Short summaries on A11y News](https://a11ynews.substack.com/t/dhs-trusted-tester-study-group)
 - [Accessibility Webinar Series Archive](https://www.accessibilityfirst.at/webinar-series)
+
+### Further Recommendations
 - [WebAIM Million Report](https://webaim.org/projects/million/)
 - [DHS Section 508 Coordinators: Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
-- [ANDI Testing Tool](https://www.ssa.gov/accessibility/andi/help/install.html)
-- [TGPI Contrast Checker](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3JRX0hJczdTMEVyR2xBSU1HZXhmaFNldzNhUXxBQ3Jtc0ttZmVTRlF6N2M1bURJUWFzWm9sSEMzcmVlbGQtTS1yUzlUWG9NbVBlNnNCSHFHa19lWGlHMzlSMXJMbThQdHB1elVmOXJFQjZ3cnNLYXNrazI1SEZ6LVh3N0JNNTdoeFhxZXM0clBqcFQtaDJMV25DZw&q=https%3A%2F%2Fwww.tpgi.com%2Fcolor-contrast-checker%2F&v=NzBo3sU0ki8) (any contrast checker will do)
