@@ -1,5 +1,8 @@
 # GDG-Study-Group
-Welcome to the [DHS Section 508 Trusted Tester](https://section508coordinators.github.io/TrustedTester/) Study Group, hosted by [GDG Vienna](https://gdg.community.dev/gdg-vienna/). This series builds on our previous [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series). If you are new to accessibility auditing, review the recordings in advance or in between sessions, as we won't go into details that have already been covered before.
+Welcome to the Study Group hosted by [GDG Vienna](https://gdg.community.dev/gdg-vienna/)!
+In 2026, from February to July, we are studying for the [DHS Section 508 Trusted Tester](https://section508coordinators.github.io/TrustedTester/). THe curriculum follows the Trusted Tester certification course on the [DHS CXD Training Portal](https://training.section508testing.net/). To obtain a certification, you have to complete the course there.
+
+This series builds on our previous [Accessibility Webinar Series](https://www.accessibilityfirst.at/webinar-series). If you are new to accessibility auditing, review the recordings in advance or in between sessions, as we won't go into details that have already been covered before.
 
 ## Accessibility on GDG Vienna
 GDG Vienna is committed to creating an inclusive learning environment. However, we are aware of limitations within our platforms. Should you encounter barriers, please reach out either here or via the GDG Vienna page and we will do our best to get you the learning materials in a suitable format.
@@ -10,18 +13,19 @@ GDG Vienna is committed to creating an inclusive learning environment. However, 
 - Subtitles move quickly during live sessions, therefore the blog post summaries now also include a video with open captions instead of an embedded YouTube link.
 - Test ID testing processes can build on previous test IDs, which can become hard to follow on slides alone. For the live sessions, participants get a "cheat sheet" handout with the testing steps and evaluation questions to follow along.
 
-## DHS Trusted Tester
+### DHS Trusted Tester
 The Trusted Tester is rigorous web accessibility testing process developed by the U.S. Department of Homeland Security. It covers 20 topics of accessibility issues, all based on WCAG and Section 508. The DHS offers a free course which was the foundation  for this study group. Enroll in the [Trusted Tester certificaiton course](https://training.section508testing.net/) and complete it to earn a certification. 
 - [Trusted Tester: Section 508 Conformance Test Process For Web](https://section508coordinators.github.io/TrustedTester/)
 - [Test Process Quick Reference with Test Conditions](https://section508coordinators.github.io/TrustedTester/appendixc.html)
 - [DHS Trusted Tester Training  & Certification](https://www.dhs.gov/trusted-tester)
 
-### Testing Tools
+#### Testing Tools
 These testing tools are used in the Trusted Tester process. 
 - [ANDI Testing Tool](https://www.ssa.gov/accessibility/andi/help/install.html)
 - [TGPI Contrast Checker](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3JRX0hJczdTMEVyR2xBSU1HZXhmaFNldzNhUXxBQ3Jtc0ttZmVTRlF6N2M1bURJUWFzWm9sSEMzcmVlbGQtTS1yUzlUWG9NbVBlNnNCSHFHa19lWGlHMzlSMXJMbThQdHB1elVmOXJFQjZ3cnNLYXNrazI1SEZ6LVh3N0JNNTdoeFhxZXM0clBqcFQtaDJMV25DZw&q=https%3A%2F%2Fwww.tpgi.com%2Fcolor-contrast-checker%2F&v=NzBo3sU0ki8) (any contrast checker will do)
 
 ### Study Group Sessions
+**Update:** Live sessions finished on July 10, all materials will be cleaned up and added here.
 1. What is Section 508? Functional performance criteria and standards, getting familiar with testing tools and how they work
    - [Recording 1 on YouTube](https://www.youtube.com/watch?v=NzBo3sU0ki8)
    - [What is Section 508? Recap](https://a11ynews.substack.com/p/dhs-trusted-tester-study-group-session) with open captions
@@ -79,7 +83,8 @@ These testing tools are used in the Trusted Tester process.
     - [Recording 12](https://www.youtube.com/watch?v=rmyCKp8vpCw)
     - [Slides session 12](https://docs.google.com/presentation/d/1IQ9XxULGwut-riNljjmnUemWkuSfaq0EWPnzqBH8wKs/edit?usp=sharing)
     - [Testing cheat sheet topic 1: Confroming Alternate Version and Non-Interference](https://docs.google.com/document/d/1UIaBc7euqNHiDyTlk8d9rTd4YGZrDo4opDTo7ZL_Smk/edit?usp=sharing)
-    - Summary: tbd
+    - Summary [Non-Interference: The 5 tests to run first](https://a11ynews.substack.com/p/non-interference-the-most-important)
+    - Summary Confromance Reporting: tbd
     - [The 5 accessibility tests to run first | Section 508 Trusted Tester: Non-Interference](https://a11ynews.substack.com/p/non-interference-the-most-important)
 
 ## Materials
@@ -88,6 +93,8 @@ These testing tools are used in the Trusted Tester process.
 - [Presentations and transcripts on Google Drive](https://drive.google.com/drive/folders/1CGFlwLSGL_tt1RNw12vuuOZEB_jjCaL8?usp=drive_link)
 - [Short summaries on A11y News](https://a11ynews.substack.com/t/dhs-trusted-tester-study-group)
 - [Accessibility Webinar Series Archive](https://www.accessibilityfirst.at/webinar-series)
+- [Section 508 Coordinators GitHub](https://section508coordinators.github.io/TrustedTester/)
+- [DHS Section 508 Testing](https://www.dhs.gov/508-testing)
 
 ### Further Recommendations
 - [WebAIM Million Report](https://webaim.org/projects/million/)
