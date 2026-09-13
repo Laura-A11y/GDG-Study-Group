@@ -33,9 +33,8 @@ There are four test IDs in this topic:
 -	1.C Conformant Mechanism — alt-version-access
 -	1.D Non-Interference — non-interference
 
- 
 ## 1.A Accessible Alternate Version
-### 
+
 **Test Requirement**
 
 The purpose of this test is to determine if an alternate version of the content passes all applicable Test Conditions. It is not a requirement to provide alternate versions of the same content. However, if only one version of the content exists and it does not conform to the Section 508 requirements, and that version will not be remediated, then conforming alternate versions are necessary. This allows developers to provide the same information and functionality in an accessible manner when non-conforming versions of that content exist.
@@ -64,36 +63,50 @@ Test ID	Test Name	Test Condition
 
 
 **Identifying Content**
+
 Alternate versions may be provided for a part of the page, entire pages, or an entire site. Some indications that alternate versions may be present include:
-•	Instructions that describe how to enable accessibility
-•	Content identified as the accessible version
-•	Multiple methods provided to complete a task, such as a calendar widget and a text field to enter a date. Content could be a part of a web page. It does not need to be an entire web page.
-•	A link or a version for assistive technology, such as screen reader versions
-•	User preferences or settings to enable accessibility
-•	User controls to modify colors and text appearance.
+-	Instructions that describe how to enable accessibility
+-	Content identified as the accessible version
+-	Multiple methods provided to complete a task, such as a calendar widget and a text field to enter a date. Content could be a part of a web page. It does not need to be an entire web page.
+-	A link or a version for assistive technology, such as screen reader versions
+-	User preferences or settings to enable accessibility
+-	User controls to modify colors and text appearance.
+
 If found, check if any of these have been identified as a conforming alternate version.
+
 Users must be made aware if a conforming alternate version is provided, so that they have the option of using that version rather than a non-conforming version. As such, conforming alternate versions must be identified for users. For example, if content or functionality is provided in multiple ways on the same page at the same time, one version must be identified as the accessible version.
+
 Conforming alternate versions can be identified by various means, such as:
-•	Instructions that describe how to enable accessibility
-•	Content identified as the accessible version
-•	A link or a version for assistive technology, such as screen reader versions.
+-	Instructions that describe how to enable accessibility
+-	Content identified as the accessible version
+-	A link or a version for assistive technology, such as screen reader versions.
+
 Where user settings or preferences are provided for accessibility, they can be considered as indirect identification of conforming alternate versions, for example:
-•	User preferences or settings to enable accessibility
-•	User controls to modify colors and text appearance.
+-	User preferences or settings to enable accessibility
+-	User controls to modify colors and text appearance.
+
 These lists are examples only and not meant to be exhaustive.
+
 The alternate version does not need to reside within the scope of conformance or on the same website if it is as freely available as the non-conforming version. For example, the alternate version may be located on a different domain from the site you are testing. However, for this test process, the scope of testing is limited to web-based alternatives that are available in a browser on a desktop computer. Alternate versions do not include mobile applications that can only be accessed on a mobile device.
-Does Not Apply
-This Test Condition DOES NOT APPLY (DNA) if:
-•	there is only one version of content, or
-•	if no versions are identified as the conforming alternate version/accessible version.
-If there is more than one version and none are identified as the conforming alternate version or accessible version, assume there is no conforming alternate version and that these Conforming Alternate Version tests DO NOT APPLY. Perform tests 2-20 on all versions.
+
+### Does Not Apply
+
+This Test Condition **DOES NOT APPLY (DNA)** if:
+-	there is only one version of content, or
+-	if no versions are identified as the conforming alternate version/accessible version.
+
+If there is more than one version and none are identified as the conforming alternate version or accessible version, assume there is no conforming alternate version and that these Conforming Alternate Version tests **DO NOT APPLY**. Perform tests 2-20 on all versions.
+
 Depending on the scope of all the versions, for example if they are entire websites, you may want to check with the developer if any of those versions should have been identified as the conforming alternate version. If so, they should remediate this issue, and you can test the version they have identified as the conforming alternate version.
-How to Test 1.A Accessible Alternate Version
-From the TT Process:
+
+#### How to Test 1.A Accessible Alternate Version
+
+**From the TT Process:**
 1.	Enable accessibility settings (if necessary), select, and/or navigate to the version of content identified as the accessible alternate version.
 2.	Following this test process, test the identified version of the content for all applicable Test Conditions. Record the result for the appropriate Test ID.
 a.	If no failures are found, this may be a conforming alternate version.
 b.	If a failure is found, the identified version is not a conforming alternate version.
+
 Only content that is available in more than one version is evaluated in this test. Test the identified version against all applicable test conditions. For example, suppose there is a video with no captions. If a different file of the same video with captions is provided and identified as the conforming alternate version (or accessible version), your scope of testing for accessibility is the video file with captions. The video without captions only needs to be tested for 1.D Non-Interference.
 If an accessibility setting is enabled and applies to the entire web page or site, the entire page or site content is the alternate version of content. Thus, the entire page or site should be fully accessible and meet ALL test process requirements. Any failures of the content would mean it is not an accessible alternate version.
 As another example, suppose user controls for color contrast adjustment are provided on a web page, and are identified as provided for accessibility. To test, you would enable these color contrast settings. The scope of your testing would be the contrast adjustment feature and ALL the content affected by those settings.
