@@ -54,9 +54,6 @@ Alternate versions could be identified and presented in a number of ways, such a
 
 -	All tools in applicable Test Conditions.
 
-Test ID	Test Name	Test Condition
-1.A	alt-version-conformant	The identified version passes all applicable Test Conditions in this test process.
-
 |  Test ID  | Test Name              | Test Condition    |
 | --------- | ---------------------- |  -------------    |
 | 1.A       | alt-version-conformant | The identified version passes all applicable Test Conditions in this test process.   |
@@ -99,7 +96,7 @@ If there is more than one version and none are identified as the conforming alte
 
 Depending on the scope of all the versions, for example if they are entire websites, you may want to check with the developer if any of those versions should have been identified as the conforming alternate version. If so, they should remediate this issue, and you can test the version they have identified as the conforming alternate version.
 
-#### How to Test 1.A Accessible Alternate Version
+### How to Test 1.A Accessible Alternate Version
 
 **From the TT Process:**
 1.	Enable accessibility settings (if necessary), select, and/or navigate to the version of content identified as the accessible alternate version.
@@ -113,25 +110,25 @@ If an accessibility setting is enabled and applies to the entire web page or sit
 
 As another example, suppose user controls for color contrast adjustment are provided on a web page, and are identified as provided for accessibility. To test, you would enable these color contrast settings. The scope of your testing would be the contrast adjustment feature and ALL the content affected by those settings.
 
-#### Evaluating Content
+### Evaluating Content
 **From the TT Process:**
 
 If the following is TRUE, then the content PASSES; if the following is FALSE, then this Test Condition FAILS:
 1.	The identified version of content passes all applicable Test Conditions in this test process.
 
-#### Does Not Apply Examples
+### Does Not Apply Examples
 
-##### Example 1
+#### Example 1
 You are testing a single web page that has a feedback form for your shopping experience. There is only one version of the content.
 The content **DOES NOT APPLY** for 1.A Accessible Alternate Version because there is only one version of content. You also mark tests 1.B Equivalent Alternative through 1.D Non-Interference as DNA as well.
 
-##### Example 2
+#### Example 2
 You are testing a web page with a date input field. Users can use a calendar widget to select a date or enter the date manually in a text field. Neither is identified as the accessible or conforming alternate version.
 
 Since there is no version of the content identified as the accessible or conforming alternate version, this test **DOES NOT APPLY** (DNA). Both versions of the date field remain in scope of testing; you should test both versions for other applicable tests. You also mark tests 1.B Equivalent Alternative through 1.D Non-Interference as DNA as well.
 
-#### Passing Examples
-##### Example 1
+### Passing Examples
+#### Example 1
 A web page offers median housing prices information in a table. The text before the table identifies it as the accessible version of this information.
  
 There is also via a “View line graph” link that opens a graph showing the same information.
@@ -161,7 +158,7 @@ If the following is TRUE, then the content PASSES; if the following is FALSE, th
 1.	The identified version of content passes all applicable Test Conditions in this test process.
 The content PASSES 1.A Accessible Alternate Version because ALL applicable results are TRUE.
 
-##### Example 2
+#### Example 2
 A web page has drag-and-drop controls to answer a quiz. There is a link to “Enable accessibility mode.”
  
 Test for Topic 1.A Accessible Alternate Version
@@ -179,8 +176,8 @@ If the following is TRUE, then the content PASSES; if the following is FALSE, th
 1.	There is an accessible alternate version of content that passes all applicable Test Conditions in this test process.
 The content PASSES for 1.A Accessible Alternate Version because ALL applicable results are TRUE.
 
-#### Failing Examples
-##### Example 1
+### Failing Examples
+#### Example 1
 A web page offers user controls to modify the color contrast. It provides four custom color palettes and a default option. You identify the option to change colors as a method to provide an accessible version of the content.
  
 **Test for Topic 1.A Accessible Alternate Version**
@@ -209,7 +206,7 @@ If the following is TRUE, then the content PASSES; if the following is FALSE, th
 1.	The identified version of content passes all applicable Test Conditions in this test process.
 The identified version FAILS 1.A Accessible Alternate Version because it failed one or more applicable test conditions.
 
-#### Summary for Test ID 1.A 
+### Summary for Test ID 1.A 
 | Test ID     | Test Name    | Test Condition |
 | ------------- | ------------- | ------------- |
 | 1.A	 | alt-version-conformant | The identified version passes all applicable Test Conditions in this test process.|
@@ -241,7 +238,7 @@ Continue testing the identified version from 1.A Accessible Alternate Version.
 
 This Test Condition **DOES NOT APPLY** (DNA) if Test ID 1.A Accessible Alternate Version was DNA.
 
-#### How to Test 1.B Equivalent Alternative
+### How to Test 1.B Equivalent Alternative
 
 **From the TT Process:**
 1.	Continue from Test 1.A Accessible Alternate Version.
@@ -251,22 +248,22 @@ The accessible version does not need to match the non-conforming version page fo
 Verify that the information in each version uses the same human language.
 
 
-#### Evaluating Content
+### Evaluating Content
 If the following is TRUE, then the content PASSES; if the following is FALSE, then this Test Condition FAILS:
 
 1.	The identified version provides all the same information and functionality in the same human language as the non-conforming content.
 
 The accessible version that passes this 1.B Equivalent Alternative test will be referred to as the “accessible equivalent version” in subsequent tests.
 
-#### Does Not Apply Examples
-##### Example 1
+### Does Not Apply Examples
+#### Example 1
 You are testing a web page that generates reports. As there is no alternate version identified for the web page or any of its content, you mark Test ID 1.A Accessible Alternate Version as **DOES NOT APPLY** (DNA).
 
 The content **DOES NOT APPLY** (DNA) for 1.B Equivalent Alternative because there was only one version of the content and therefore Test ID 1.A Accessible Alternate Version was marked as **DOES NOT APPLY** (DNA).
 
 
-#### Passing Examples
-##### Example 1
+### Passing Examples
+#### Example 1
 A web page offers information on median house prices in two ways. The information is available through a table and an image of a graph, showing the same information on the same page. Text on the page identifies the table as the accessible alternate version.
  
 **Test for Topic 1.B Equivalent Alternative**
@@ -294,7 +291,7 @@ If the following is TRUE, then the content PASSES. If the following is FALSE, th
 TRUE: The identified version, the table, provides ALL the same information and functionality in the same human language as the non-conforming content.
 The content PASSES 1.B Equivalent Alternative because the test result is TRUE.
 
-##### Example 2
+#### Example 2
 
 A web page offers user controls to modify the color contrast by providing four custom color palettes and a default option. A user can select any color combination to view the web page. You identify the option to change colors as a method to provide a version for accessibility purposes.
  
@@ -324,8 +321,8 @@ TRUE: The content in the accessible version provides the same information and fu
 
 The content PASSES 1.B Equivalent Alternative because the test results are TRUE.
 
-#### Failing Examples
-##### Example 1
+### Failing Examples
+#### Example 1
 A meeting scheduling website offers two ways to input a date. You can either type the date in the Date text field or use a date picker control. There is a link before the date field labeled “Accessibility info.”
 
 Since multiple methods are provided to input the date, you check if either method is identified as the accessible version. Clicking on the “Accessibility info” link opens a page that says that text fields are the accessible version of the date fields.
@@ -356,7 +353,7 @@ If the following is TRUE, then the content PASSES. If the following is FALSE, th
 FALSE: The text field does not provide the same information as the date picker.
 The content FAILS for 1.B Equivalent Alternative because the result is FALSE.
 
-##### Example 2
+#### Example 2
 You are testing a website that allows users to enable an accessibility mode that applies to the entire web page.
 
 **Test for Topic 1.B Equivalent Alternative**
@@ -381,7 +378,7 @@ If the following is TRUE, then the content PASSES. If the following is FALSE, th
 FALSE: The identified version does not provide the same information in the same human language. There are two sections in French only, with no English translation.
 The content FAILS for 1.B Equivalent Alternative because the result is FALSE.
 
-##### Example 3
+#### Example 3
 A web page offers median house price information in a table. There is also a link that, when selected, shows a graphic of the same information.
  
 **Test for Topic 1.B Equivalent Alternative**
@@ -400,7 +397,7 @@ If the following is TRUE, then the content PASSES. If the following is FALSE, th
 FALSE: The data table is missing specific information about the trend of decreasing housing prices between 2014 and 2018 that was highlighted on the bar graph.
 The content FAILS for 1.B Equivalent Alternative because the result is FALSE.
 
-#### Summary for Test ID 1.B
+### Summary for Test ID 1.B
 | Test ID     | Test Name    | Test Condition |
 | ------------- | ------------- | ------------- |
 | 1.B	 | alt-version-equivalent | The identified version is up to date with the same information and functionality.|
@@ -454,14 +451,14 @@ This Test Condition **DOES NOT APPLY** (DNA) if Test ID 1.A Accessible Alternate
 If the following is TRUE, then the content PASSES; if the following is FALSE, then this Test Condition FAILS:
 1.	The mechanism used to reach the accessible equivalent version passes all applicable Test Conditions.
 
-#### Does Not Apply Examples
-##### Example 1
+### Does Not Apply Examples
+#### Example 1
 You are testing a single web page of a feedback form for a recent shopping experience. There is only one version of the content.
 The content **DOES NOT APPLY** (DNA) for 1.A Accessible Alternate Version since there is only one version of the content. As such, 1.C Conformant Mechanism does not apply.
 
 
-#### Passing Examples
-##### Example 1
+### Passing Examples
+#### Example 1
 A web page offers information on median house prices in two ways. The information is available through a table and an image of a graph, showing the same information on the same page side by side. The page identifies the table as the accessible alternate version.
  
 You first identify how the accessible equivalent version is accessed. You determine that the mechanism used is to present both versions side by side on the same page.
@@ -482,7 +479,7 @@ If the following is TRUE, then the content PASSES; if the following is FALSE, th
 TRUE: There are no other Test Conditions that apply since the mechanism does not require any additional user interaction.
 The content PASSES 1.C Conformant Mechanism because the results are TRUE.
 
-##### Example 2
+#### Example 2
 A web page offers user controls to modify the color contrast by providing four custom color palettes and a default option. A user can select any color combination to view the web page. You identify the option to change colors as the mechanism to provide a version for accessibility purposes.
  
 **Test for Topic 1.C Conformant Mechanism**
@@ -499,215 +496,263 @@ If the following is TRUE, then the content PASSES; if the following is FALSE, th
 TRUE: The mechanism PASSES all applicable Test Conditions.
 The content PASSES 1.C Conformant Mechanism because the results are TRUE.
 
-#### Failing Examples
-Example 1
+### Failing Examples
+#### Example 1
 A web page provides a line graph of house pricing information. Below the graph is a link that reads “View accessible version,” which leads to an accessible equivalent version. The link is not keyboard accessible.
  
 **From the TT Process:**
 1.	Perform Tests 2 through 20 for the mechanism used to reach the identified version.
+
+
 You find that the link is not keyboard accessible.
 **From the TT Process:**
+
 If the following is TRUE, then the content PASSES; if the following is FALSE, then this Test Condition FAILS:
 1.	The mechanism used to reach the accessible equivalent version passes all applicable Test Conditions.
+
 FALSE: The mechanism fails the test for keyboard accessibility.
 The content FAILS 1.C Conformant Mechanism because the result is FALSE.
 
-Summary for Test ID 1.C
-Test ID	Test Name	Test Condition
-1.C	alt-version-access	The mechanism to reach the identified version is accessible.
+### Summary for Test ID 1.C
+|  Test ID  | Test Name              | Test Condition    |
+| --------- | ---------------------- |  -------------    |
+| 1.C     | alt-version-access | The mechanism to reach the identified version is accessible.  |
+
 Test ID 1.C (alt-version-access) requires that the mechanism to access the identified version PASSES all applicable Test Conditions. The mechanism can include links, buttons, user preferences, instructions, and other methods.
 
  
-1.D Non-Interference
-Test Requirement
+## 1.D Non-Interference
+**Test Requirement**
+
 The purpose of this test is to verify that the non-conforming content from the preceding tests does not interfere or block the user’s ability to interact with the conforming content. By performing five specific tests on the non-conforming content, you will verify that the web page:
 -	Allows users to pause, stop, or control volume of audio content that plays automatically, AND
 -	Allows users to pause, stop, or hide moving, blinking, or scrolling content, AND
 -	Allows users to stop, pause, hide, or control the frequency of any automatically updating content, AND
 -	Has no flashing content present, AND
 -	Has no keyboard trap.
+
 Non-interference requirements apply to ALL content on a web page. This includes non-conforming content that has a conforming alternate version, because a failure could interfere with further use of the page. While a conforming alternate version of content might have been confirmed under Tests 1.A through 1.C, a content owner CANNOT make a claim of conformance to the Section 508 standards if ANY version of content fails Test 1.D Non-interference. This includes content that is not otherwise relied upon to meet conformance.
+
 The results from this test are used to determine if WCAG Conformance Requirement 5 is met.
-Methods
+
+**Methods**
 -	Methods used in applicable Test Conditions.
-Tools
+
+**Tools**
 -	Tools used in applicable Test Conditions.
-Test ID	Test Name	Test Condition
-1.D	non-interference	Content in the non-conforming version(s) meets Conformance Requirement 5.
-Identifying Content
+  
+|  Test ID  | Test Name              | Test Condition    |
+| --------- | ---------------------- |  -------------    |
+| 1.D       | non-interference | Content in the non-conforming version(s) meets Conformance Requirement 5. |
+
+**Identifying Content**
 The non-conforming version(s) of the content. Exclude the version identified as the accessible version.
-Does Not Apply
+
+### Does Not Apply
 This Test Condition **DOES NOT APPLY** (DNA) if Test ID 1.A Accessible Alternate Version was DNA.
-How to Test 1.D Non-Interference
+
+### How to Test 1.D Non-Interference
 **From the TT Process:**
 1.	If necessary and/or applicable, disable accessibility features within site setting or preferences.
 2.	Perform ONLY the following tests on the non-conforming version(s) of the content:
-a.	Test ID 2.A Audio Control
-b.	Test ID 2.B Blinking, Moving, and Scrolling
-c.	Test ID 2.C Auto-Updating
-d.	Test ID 3.A Flashing
-e.	Test ID 4.C Keyboard Trap.
+    a.	Test ID 2.A Audio Control
+    b.	Test ID 2.B Blinking, Moving, and Scrolling
+    c.	Test ID 2.C Auto-Updating
+    d.	Test ID 3.A Flashing
+    e.	Test ID 4.C Keyboard Trap.
 3.	Enter test results for the appropriate Test IDs listed above.
 4.	Do not perform any further testing on the non-conforming version(s) of the content.
-Evaluating Content
+
+### Evaluating Content
 **From the TT Process:**
 If the following is TRUE, then the content PASSES. If the following is FALSE, then this Test Condition FAILS:
 1.	The results for each of the following tests are PASS or **DOES NOT APPLY** for all non-conforming version(s) of the content.
-a.	Test ID 2.A Audio Control
-b.	Test ID 2.B Blinking, Moving, and Scrolling
-c.	Test ID 2.C Auto-Updating
-d.	Test ID 3.A Flashing – Must be **DOES NOT APPLY**
-e.	Test ID 4.C Keyboard Trap
+    a.	Test ID 2.A Audio Control
+    b.	Test ID 2.B Blinking, Moving, and Scrolling
+    c.	Test ID 2.C Auto-Updating
+    d.	Test ID 3.A Flashing – Must be **DOES NOT APPLY**
+    e.	Test ID 4.C Keyboard Trap
 The results for all these five tests must be either **DOES NOT APPLY** or PASS. If any of these five tests FAIL, then the result of this test is FAILS.
 3.A Flashing must have a test result of **DOES NOT APPLY** in order to meet 1.D Non-interference. A test result of NOT TESTED does not meet the 1.D Test Condition. See Test ID 3.A Flashing for further details.
 After performing this test on the non-conforming version of content that has a conforming alternate version, you can omit the non-conforming content from further testing.
 
-Does Not Apply Examples
-Example 1
+### Does Not Apply Examples
+#### Example 1
 You are testing a single web page of a feedback form for a recent shopping experience. There is only one version of the content. Since there is only one version of content, this example was marked **DOES NOT APPLY** for 1.A Accessible Alternate Version. As such, it is also DNA for 1.D Non-Interference.
 
-Passing Examples
-Example 1
+### Passing Examples
+#### Example 1
 You are testing a new version of the web page and determine that the developer has offered median house content in more than one way. It is available through an accessible table and an image of a graph, showing the same information on the same page side by side.
+
 You already tested this page for 1.A Accessible Alternate Version through 1.C Conformant Mechanism and determined that it passed all applicable test conditions.
  
-Test for Topic 1.D Non-Interference
+**Test for Topic 1.D Non-Interference**
 **From the TT Process:**
 1.	If necessary and/or applicable, disable accessibility features within site settings or preferences.
+
 There are no accessibility features provided.
+
 **From the TT Process:**
 2.	Perform ONLY the following tests on the non-conforming version(s) of the content:
-a.	Test ID 2.A Audio Control
-b.	Test ID 2.B Blinking, Moving, and Scrolling
-c.	Test ID 2.C Auto-Updating
-d.	Test ID 3.A Flashing
-e.	Test ID 4.C Keyboard Trap
+    a.	Test ID 2.A Audio Control
+    b.	Test ID 2.B Blinking, Moving, and Scrolling
+    c.	Test ID 2.C Auto-Updating
+    d.	Test ID 3.A Flashing
+    e.	Test ID 4.C Keyboard Trap
+
 You determine that the non-conforming content is the graph. You did not find any audio, auto-playing, auto-updating, or flashing content, so these tests do not apply. There are no keyboard traps.
-Evaluate for Topic 1.D Non-Interference
+
+**Evaluate for Topic 1.D Non-Interference**
 **From the TT Process:**
+
 If the following is TRUE, then the content PASSES. If the following is FALSE, then this Test Condition FAILS:
 1.	The results for each of the following tests are PASS or **DOES NOT APPLY** for all non-conforming version(s) of the content.
-a.	Test ID 2.A Audio Control.
-DNA: There is no auto-playing audio content.
-**From the TT Process:**
-b.	Test ID 2.B Blinking, Moving, and Scrolling
-DNA: There is no moving, blinking, or scrolling content.
-**From the TT Process:**
-c.	Test ID 2.C Auto-Updating
-DNA: There is no auto-updating content.
-**From the TT Process:**
-d.	Test ID 3.A Flashing
-DNA: There is no flashing content.
-**From the TT Process:**
-e.	Test ID 4.C Keyboard Trap
-PASS: You do not find a keyboard trap.
+    a.	Test ID 2.A Audio Control.
+    DNA: There is no auto-playing audio content.
+
+    b.	Test ID 2.B Blinking, Moving, and Scrolling
+    DNA: There is no moving, blinking, or scrolling content.
+
+  	c.	Test ID 2.C Auto-Updating
+    DNA: There is no auto-updating content.
+
+    d.	Test ID 3.A Flashing
+    DNA: There is no flashing content.
+
+    e.	Test ID 4.C Keyboard Trap
+    PASS: You do not find a keyboard trap.
+
 The results for each of the five applicable Test Conditions are PASS or DNA. There is no other non-conforming version of this content. The content PASSES 1.D Non-Interference because the result is TRUE.
 After performing this test on this non-conforming version of the content, you omit testing of this non-conforming content from the rest of your testing.
-Example 2
+
+#### Example 2
 A web page offers user controls to modify the color contrast by providing four custom color palettes and a default option. A user can select any color combination to view the web page. You identify the option to change colors as the mechanism to provide a version for accessibility purposes.
+
 You already determined that this page passed for 1.A Accessible Alternate Version through 1.C Conformant Mechanism.
  
-Test for Topic 1.D Non-Interference
+**Test for Topic 1.D Non-Interference**
 **From the TT Process:**
+
 You already determined that this page passed for 1.A Accessible Alternate Version through 1.C Conformant Mechanism.
 1.	If necessary and/or applicable, disable accessibility features within site settings or preferences.
 You disable the any contrast options by selecting “Reset to default.”
+
 **From the TT Process:**
 2.	Perform ONLY the following tests on the non-conforming version(s) of the content:
-a.	Test ID 2.A Audio Control
-b.	Test ID 2.B Blinking, Moving, and Scrolling
-c.	Test ID 2.C Auto-Updating
-d.	Test ID 3.A Flashing
-e.	Test ID 4.C Keyboard Trap
+    a.	Test ID 2.A Audio Control
+    b.	Test ID 2.B Blinking, Moving, and Scrolling
+    c.	Test ID 2.C Auto-Updating
+    d.	Test ID 3.A Flashing
+    e.	Test ID 4.C Keyboard Trap
+
 You determine that the non-conforming content is the web page with the color options disabled. You did not find any audio, auto-playing, auto-updating, or flashing content, so these tests do not apply. There are no keyboard traps.
-Evaluate for Topic 1.D Non-Interference
+
+**Evaluate for Topic 1.D Non-Interference**
 **From the TT Process:**
+
 If the following is TRUE, then the content PASSES. If the following is FALSE, then this Test Condition FAILS:
 1.	The results for each of the following tests are PASS or **DOES NOT APPLY** for all non-conforming version(s) of the content.
 
-a.	Test ID 2.A Audio Control.
-DNA: There is no auto-playing audio content.
-**From the TT Process:**
-b.	Test ID 2.B Blinking, Moving, and Scrolling
-DNA: There is no moving, blinking, or scrolling content.
-**From the TT Process:**
-c.	Test ID 2.C Auto-Updating
-DNA: There is no auto-updating content.
-**From the TT Process:**
-d.	Test ID 3.A Flashing
-DNA: There is no flashing content.
-**From the TT Process:**
-e.	Test ID 4.C Keyboard Trap
-PASS: You do not find a keyboard trap.
+    a.	Test ID 2.A Audio Control.
+    DNA: There is no auto-playing audio content.
+
+    b.	Test ID 2.B Blinking, Moving, and Scrolling
+    DNA: There is no moving, blinking, or scrolling content.
+
+    c.	Test ID 2.C Auto-Updating
+    DNA: There is no auto-updating content.
+
+    d.	Test ID 3.A Flashing
+    DNA: There is no flashing content.
+
+    e.	Test ID 4.C Keyboard Trap
+    PASS: You do not find a keyboard trap.
+
 The results for each of the five applicable Test Conditions are PASS or DNA. There is no other non-conforming version of this content. The content PASSES 1.D Non-Interference because the result is TRUE.
 After performing this test on this non-conforming version of the content, you omit testing of this non-conforming content from the rest of your testing.
 
-Failing Examples
-Example 1
+### Failing Examples
+#### Example 1
 You are testing a web page that has accessibility mode enabled by default, but users can also choose to toggle the accessibility mode off or on.
  
-Test for Topic 1.D Non-Interference
+**Test for Topic 1.D Non-Interference**
 **From the TT Process:**
 1.	If necessary and/or applicable, disable accessibility features within site settings or preferences.
+
 You disable accessibility mode. You determine the non-conforming content is the entire web page with accessibility mode disabled.
+
 **From the TT Process:**
 2.	Perform ONLY the following tests on the non-conforming version(s) of the content:
-a.	Test ID 2.A Audio Control
-b.	Test ID 2.B Blinking, Moving, and Scrolling
-c.	Test ID 2.C Auto-Updating
-d.	Test ID 3.A Flashing
-e.	Test ID 4.C Keyboard Trap
+    a.	Test ID 2.A Audio Control
+    b.	Test ID 2.B Blinking, Moving, and Scrolling
+    c.	Test ID 2.C Auto-Updating
+    d.	Test ID 3.A Flashing
+    e.	Test ID 4.C Keyboard Trap
+
 You check for any instances where any of the tests above produces a result of FAIL or NOT TESTED (for Test ID 3.A Flashing).
+
 You notice that there is continually flashing content at the top of each page. The flashing is at different rates and does not stop. Because of this, people with attention deficit disorder may become distracted, and those with photosensitive seizure disorders may have seizures. You mark 3.A Flashing as NOT TESTED.
-Evaluate for Topic 1.D Non-Interference
+
+**Evaluate for Topic 1.D Non-Interference**
+
 **From the TT Process:**
 If the following is TRUE, then the content PASSES. If the following is FALSE, then this Test Condition FAILS:
 1.	The results for each of the following tests are PASS or **DOES NOT APPLY** for all non-conforming version(s) of the content.
-a.	Test ID 2.A Audio Control
-b.	Test ID 2.B Blinking, Moving, and Scrolling
-c.	Test ID 2.C Auto-Updating
-d.	Test ID 3.A Flashing
-e.	Test ID 4.C Keyboard Trap
+    a.	Test ID 2.A Audio Control
+    b.	Test ID 2.B Blinking, Moving, and Scrolling
+    c.	Test ID 2.C Auto-Updating
+    d.	Test ID 3.A Flashing
+    e.	Test ID 4.C Keyboard Trap
 FALSE: Since there is flashing content on the web page, you mark 3.A Flashing as NOT TESTED.
 Since 3.A Flashing is not PASS or DNA, the test condition is FALSE and FAILS. You also mark 3.A Flashing as NOT TESTED.
+
 The content FAILS 1.D Non-Interference because the test result is FALSE.
-Example 2
+
+#### Example 2
 A web page has an alternate conforming version which has passed all applicable tests. The non-conforming content is found towards the bottom half of the page.
-Test for Topic 1.D Non-Interference
+**Test for Topic 1.D Non-Interference**
 **From the TT Process:**
 1.	The non-conforming content that has a conforming alternate version must be tested prior to omitting the content from the rest of testing.
+
 You locate the non-conforming content at the bottom half of the web page.
+
 **From the TT Process:**
 2.	If necessary and/or applicable, disable accessibility features within site settings or preferences.
+
 There are no accessibility settings to disable.
+
 **From the TT Process:**
 3.	Perform ONLY the following tests on the non-conforming version(s) of the content:
-a.	Test ID 2.A Audio Control
-b.	Test ID 2.B Blinking, Moving, and Scrolling
-c.	Test ID 2.C Auto-Updating
-d.	Test ID 3.A Flashing
-e.	Test ID 4.C Keyboard Trap
+    a.	Test ID 2.A Audio Control
+    b.	Test ID 2.B Blinking, Moving, and Scrolling
+    c.	Test ID 2.C Auto-Updating
+    d.	Test ID 3.A Flashing
+    e.	Test ID 4.C Keyboard Trap
+
 When testing the non-conforming version for 4.C Keyboard Trap, the keyboard focus gets stuck in a loop. As this creates a keyboard trap, it FAILS Test ID 4.C Keyboard Trap.
-Evaluate for Topic 1.D Non-Interference
+
+**Evaluate for Topic 1.D Non-Interference**
 **From the TT Process:**
 If the following is TRUE, then the content PASSES. If the following is FALSE, then this Test Condition FAILS:
 1.	The results for each of the following tests are PASS or **DOES NOT APPLY** for all non-conforming version(s) of the content.
-a.	Test ID 2.A Audio Control
-b.	Test ID 2.B Blinking, Moving, and Scrolling
-c.	Test ID 2.C Auto-Updating
-d.	Test ID 3.A Flashing
-e.	Test ID 4.C Keyboard Traps
+    a.	Test ID 2.A Audio Control
+    b.	Test ID 2.B Blinking, Moving, and Scrolling
+    c.	Test ID 2.C Auto-Updating
+    d.	Test ID 3.A Flashing
+    e.	Test ID 4.C Keyboard Traps
 FALSE:  Since Test ID 4.C Keyboard Trap FAILS, the test condition is FALSE and the test FAILS.
 You also record this failure under Test ID 4.C Keyboard Trap.
+
 The content FAILS 1.D Non-Interference because the test result is FALSE.
 
-Summary for Test ID 1.D
-Test ID	Test Name	Test Condition
-1.D	non-interference	Content in the non-conforming version(s) meets Conformance Requirement 5.
+### Summary for Test ID 1.D
+|  Test ID  | Test Name              | Test Condition    |
+| --------- | ---------------------- |  -------------    |
+| 1.D       | non-interference | Content in the non-conforming version(s) meets Conformance Requirement 5.  |
 Test ID 1.D (non-interference) requires that the non-conforming versions of content do not have elements that could interfere with a user’s ability to access the accessible versions. This includes auto-playing content that cannot be controlled, flashing content, and keyboard traps.
 
-Topic Summary
-Test ID 1.A (alt-version-conformant) requires that any versions of content identified as accessible alternatives PASSES all applicable Test Conditions. Remember that while alternate versions may be identified directly, they may also be identified indirectly, such as by providing user settings for accessibility.
-Test ID 1.B (alt-version-equivalent) requires that the identified version has the same information, functionality, and language as the non-conforming version.
-Test ID 1.C (alt-version-access) requires that the mechanism to access the identified version PASSES all applicable Test Conditions. The mechanism can include links, buttons, user preferences, instructions, and other methods.
-Test ID 1.D (non-interference) requires that the non-conforming versions of content do not have elements that could interfere with a user’s ability to access the accessible versions. This includes auto-playing content that cannot be controlled, flashing content, and keyboard traps.
+## Topic Summary
+- Test ID 1.A (alt-version-conformant) requires that any versions of content identified as accessible alternatives PASSES all applicable Test Conditions. Remember that while alternate versions may be identified directly, they may also be identified indirectly, such as by providing user settings for accessibility.
+- Test ID 1.B (alt-version-equivalent) requires that the identified version has the same information, functionality, and language as the non-conforming version.
+- Test ID 1.C (alt-version-access) requires that the mechanism to access the identified version PASSES all applicable Test Conditions. The mechanism can include links, buttons, user preferences, instructions, and other methods.
+- Test ID 1.D (non-interference) requires that the non-conforming versions of content do not have elements that could interfere with a user’s ability to access the accessible versions. This includes auto-playing content that cannot be controlled, flashing content, and keyboard traps.
