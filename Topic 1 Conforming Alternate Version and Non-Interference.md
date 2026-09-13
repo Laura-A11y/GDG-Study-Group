@@ -218,20 +218,31 @@ Test ID *1.A (alt-version-conformant)* requires that any versions of content ide
 
 
 ## 1.B Equivalent Alternative
-Test Requirement
+**Test Requirement**
+
 The purpose of this test is to verify that the identified version from 1.A Accessible Alternate Version provides the same information and functionality as the non-conforming version.  The identified version needs to have content in the same human language and provide up-to-date information. This ensures that the identified version provides equivalent information and content. The results from this test are used to determine if WCAG’s Conforming Alternate Version requirements are met.
-Methods
-•	Manual inspection.
-Tools
-•	None.
-Test ID	Test Name	Test Condition
-1.B	alt-version-equivalent	The identified version is up to date with the same information and functionality.
-Identifying Content
+
+**Methods**
+-	Manual inspection.
+
+**Tools**
+-	None.
+
+|  Test ID  | Test Name              | Test Condition    |
+| --------- | ---------------------- |  -------------    |
+| 1.B       | alt-version-equivalent | The identified version is up to date with the same information and functionality.  |
+
+
+**Identifying Content**
+
 Continue testing the identified version from 1.A Accessible Alternate Version.
-Does Not Apply
+
+### Does Not Apply
+
 This Test Condition **DOES NOT APPLY** (DNA) if Test ID 1.A Accessible Alternate Version was DNA.
 
-How to Test 1.B Equivalent Alternative
+#### How to Test 1.B Equivalent Alternative
+
 **From the TT Process:**
 1.	Continue from Test 1.A Accessible Alternate Version.
 2.	Review the content of the non-conforming version.
@@ -240,100 +251,140 @@ The accessible version does not need to match the non-conforming version page fo
 Verify that the information in each version uses the same human language.
 
 
-Evaluating Content
+#### Evaluating Content
 If the following is TRUE, then the content PASSES; if the following is FALSE, then this Test Condition FAILS:
+
 1.	The identified version provides all the same information and functionality in the same human language as the non-conforming content.
+
 The accessible version that passes this 1.B Equivalent Alternative test will be referred to as the “accessible equivalent version” in subsequent tests.
 
-Does Not Apply Examples
-Example 1
+#### Does Not Apply Examples
+##### Example 1
 You are testing a web page that generates reports. As there is no alternate version identified for the web page or any of its content, you mark Test ID 1.A Accessible Alternate Version as **DOES NOT APPLY** (DNA).
+
 The content **DOES NOT APPLY** (DNA) for 1.B Equivalent Alternative because there was only one version of the content and therefore Test ID 1.A Accessible Alternate Version was marked as **DOES NOT APPLY** (DNA).
 
 
-Passing Examples
-Example 1
+#### Passing Examples
+###### Example 1
 A web page offers information on median house prices in two ways. The information is available through a table and an image of a graph, showing the same information on the same page. Text on the page identifies the table as the accessible alternate version.
  
-Test for Topic 1.B Equivalent Alternative
+**Test for Topic 1.B Equivalent Alternative**
 **From the TT Process:**
 1.	Continue from Test 1.A Accessible Alternate Version.
+
 The table is identified as the accessible alternate version.
 **From the TT Process:**
 2.	Review the content of the non-conforming version.
+
 You review the content of the non-conforming graph.
  
 **From the TT Process:**
 3.	Verify that the identified version has the same information, functionality, and language as the non-conforming version.
+
 You compare the table with the non-conforming graph and see that they present equivalent information and functionality in the same human language.
  
-Evaluate for Topic 1.B Equivalent Alternative
+**Evaluate for Topic 1.B Equivalent Alternative**
+
 **From the TT Process:**
+
 If the following is TRUE, then the content PASSES. If the following is FALSE, then this Test Condition FAILS:
+
 1.	The identified version provides all the same information and functionality in the same human language as the non-conforming content.
 TRUE: The identified version, the table, provides ALL the same information and functionality in the same human language as the non-conforming content.
 The content PASSES 1.B Equivalent Alternative because the test result is TRUE.
-Example 2
+
+##### Example 2
+
 A web page offers user controls to modify the color contrast by providing four custom color palettes and a default option. A user can select any color combination to view the web page. You identify the option to change colors as a method to provide a version for accessibility purposes.
  
-Test for Topic 1.B Equivalent Alternative
+**Test for Topic 1.B Equivalent Alternative**
+
 **From the TT Process:**
 1.	Continue from Test 1.A Accessible Alternate Version.
+
 When you select a color contrast setting, the setting affects all the text on the current page.
+
 **From the TT Process:**
 2.	Review the content of the non-conforming version:
  
 **From the TT Process:**
 3.	Verify that the identified version has the same information, functionality, and language as the non-conforming version.
+
 You review the yellow-on-black version and notice it is the same as the default version except for the change in color.
  
-Evaluate for Topic 1.B Equivalent Alternative
+**Evaluate for Topic 1.B Equivalent Alternative**
+
 **From the TT Process:**
+
 If the following is TRUE, then the content PASSES. If the following is FALSE, then this Test Condition FAILS:
 1.	The identified version provides all the same information and functionality in the same human language as the non-conforming content.
+
 TRUE: The content in the accessible version provides the same information and functionality in the same language as the non-conforming content.
+
 The content PASSES 1.B Equivalent Alternative because the test results are TRUE.
 
-Failing Examples
-Example 1
+#### Failing Examples
+##### Example 1
 A meeting scheduling website offers two ways to input a date. You can either type the date in the Date text field or use a date picker control. There is a link before the date field labeled “Accessibility info.”
+
 Since multiple methods are provided to input the date, you check if either method is identified as the accessible version. Clicking on the “Accessibility info” link opens a page that says that text fields are the accessible version of the date fields.
-Test for Topic 1.B Equivalent Alternative
+
+**Test for Topic 1.B Equivalent Alternative**
+
 **From the TT Process:**
 1.	Continue from Test 1.A Accessible Alternate Version.
+
 The date text field was identified as the accessible version of the non-conformant date picker.
+
 **From the TT Process:**
+
 2.	Review the content of the non-conforming version.
 **From the TT Process:**
-3.	Verify that the identified version has the same information, functionality, and language as the non-conforming version.
+
+4.	Verify that the identified version has the same information, functionality, and language as the non-conforming version.
+
 You review the content on the non-conforming date picker and compare it to the identified version, and see they are both in the same human language. However, the text field does not offer the same information when inserting a date. The date picker offers the ability to identify what day of the week you are trying to select. This information can be very beneficial. For example, when scheduling a meeting, it can help ensure it is not inappropriately scheduled for a weekend. Also, selecting a date from the date picker automatically enters a date in the expected date format. However, the text field does not provide information on the expected date format.
-Evaluate for Topic 1.B Equivalent Alternative
+
+**Evaluate for Topic 1.B Equivalent Alternative**
+
 **From the TT Process:**
+
 If the following is TRUE, then the content PASSES. If the following is FALSE, then this Test Condition FAILS:
 1.	The identified version provides all the same information and functionality in the same human language as the non-conforming content.
+
 FALSE: The text field does not provide the same information as the date picker.
 The content FAILS for 1.B Equivalent Alternative because the result is FALSE.
-Example 2
+
+##### Example 2
 You are testing a website that allows users to enable an accessibility mode that applies to the entire web page.
 
-Test for Topic 1.B Equivalent Alternative
+**Test for Topic 1.B Equivalent Alternative**
+
 **From the TT Process:**
 1.	 Continue from Test 1.A. Accessible Alternate Version.
+
 **From the TT Process:**
 2.	 Review the content of the non-conforming version.
+
 **From the TT Process:**
 3.	Verify that the identified version has the same information, functionality, and language as the non-conforming version.
+
 With accessibility mode enabled, you review the content and notice that the accessible version is not all in English. It appears that two sentences are now in French, with no English translation.
-Evaluate for Topic 1.B Equivalent Alternative
+
+**Evaluate for Topic 1.B Equivalent Alternative**
 **From the TT Process:**
+
 If the following is TRUE, then the content PASSES. If the following is FALSE, then this Test Condition FAILS:
 1.	The identified version provides all the same information and functionality in the same human language as the non-conforming content.
+
 FALSE: The identified version does not provide the same information in the same human language. There are two sections in French only, with no English translation.
 The content FAILS for 1.B Equivalent Alternative because the result is FALSE.
-Example 3
+
+##### Example 3
 A web page offers median house price information in a table. There is also a link that, when selected, shows a graphic of the same information.
  
-Test for Topic 1.B Equivalent Alternative
+**Test for Topic 1.B Equivalent Alternative**
 **From the TT Process:**
 1.	Continue from Test 1.A Accessible Alternate Version.
 **From the TT Process:**
@@ -349,35 +400,37 @@ If the following is TRUE, then the content PASSES. If the following is FALSE, th
 FALSE: The data table is missing specific information about the trend of decreasing housing prices between 2014 and 2018 that was highlighted on the bar graph.
 The content FAILS for 1.B Equivalent Alternative because the result is FALSE.
 
-Summary for Test ID 1.B
-Test ID	Test Name	Test Condition
-1.B	alt-version-equivalent	The identified version is up to date with the same information and functionality.
+#### Summary for Test ID 1.B
+| Test ID     | Test Name    | Test Condition |
+| ------------- | ------------- | ------------- |
+| 1.B	 | alt-version-equivalent | The identified version is up to date with the same information and functionality.|
+
 Test ID 1.B (alt-version-equivalent) requires that the identified version has the same information, functionality, and language as the non-conforming version. However, they do not have to match page for page.
 
  
-1.C Conformant Mechanism
-Test Requirement
+## 1.C Conformant Mechanism
+**Test Requirement**
 In this test and the next, you will determine how the identified version is accessed by the user.
 This Test ID covers how to test the mechanism the user takes to access the accessible equivalent version. The mechanism must conform to all applicable Test Conditions. The results from this test are used to determine if WCAG’s Conforming Alternate Version requirements are met.
 Methods
-•	Manual inspection.
+-	Manual inspection.
 Tools
-•	Tools used in applicable Test Conditions.
+-	Tools used in applicable Test Conditions.
 Test ID	Test Name	Test Condition
 1.C	alt-version-access	The mechanism to reach the identified version is accessible.
 Identifying Content
 Identify the mechanism used to access the identified version. Various mechanisms may be used to reach the identified version, such as:
-•	A link to the identified version or a version for assistive technology (e.g., screen reader version)
-•	User preferences or settings to enable accessibility for a page or the entire site
-•	User controls to modify colors and text appearance of the page or entire site
-•	Navigating to the identified accessible version of content on a page
-•	A button, link, or hotkey combination
-•	Providing the accessible equivalent version on the same page as the non-conforming version
-•	Text before a link to the accessible version stating that the link leads to the accessible version.
-•	Hiding non-conforming content from assistive technologies (AT) or excluding it from keyboard focus, so that users with disabilities only access the accessible version.
+-	A link to the identified version or a version for assistive technology (e.g., screen reader version)
+-	User preferences or settings to enable accessibility for a page or the entire site
+-	User controls to modify colors and text appearance of the page or entire site
+-	Navigating to the identified accessible version of content on a page
+-	A button, link, or hotkey combination
+-	Providing the accessible equivalent version on the same page as the non-conforming version
+-	Text before a link to the accessible version stating that the link leads to the accessible version.
+-	Hiding non-conforming content from assistive technologies (AT) or excluding it from keyboard focus, so that users with disabilities only access the accessible version.
 A mechanism is widely defined as a process or technique for achieving a result. It may be explicitly provided in the content, or it may be provided by the platform or user agents, including AT. For example:
-•	A keyboard-only user would rely on the operating system and browser’s functionality to navigate using the keyboard, such as the Tab or Arrow keys.
-•	A screen reader user would likely rely on additional features provided by their screen reader to navigate the content of a web page, such as custom shortcut keys.
+-	A keyboard-only user would rely on the operating system and browser’s functionality to navigate using the keyboard, such as the Tab or Arrow keys.
+-	A screen reader user would likely rely on additional features provided by their screen reader to navigate the content of a web page, such as custom shortcut keys.
 Does Not Apply
 This Test Condition **DOES NOT APPLY** (DNA) if Test ID 1.A Accessible Alternate Version was DNA.
 
@@ -447,17 +500,17 @@ Test ID 1.C (alt-version-access) requires that the mechanism to access the ident
 1.D Non-Interference
 Test Requirement
 The purpose of this test is to verify that the non-conforming content from the preceding tests does not interfere or block the user’s ability to interact with the conforming content. By performing five specific tests on the non-conforming content, you will verify that the web page:
-•	Allows users to pause, stop, or control volume of audio content that plays automatically, AND
-•	Allows users to pause, stop, or hide moving, blinking, or scrolling content, AND
-•	Allows users to stop, pause, hide, or control the frequency of any automatically updating content, AND
-•	Has no flashing content present, AND
-•	Has no keyboard trap.
+-	Allows users to pause, stop, or control volume of audio content that plays automatically, AND
+-	Allows users to pause, stop, or hide moving, blinking, or scrolling content, AND
+-	Allows users to stop, pause, hide, or control the frequency of any automatically updating content, AND
+-	Has no flashing content present, AND
+-	Has no keyboard trap.
 Non-interference requirements apply to ALL content on a web page. This includes non-conforming content that has a conforming alternate version, because a failure could interfere with further use of the page. While a conforming alternate version of content might have been confirmed under Tests 1.A through 1.C, a content owner CANNOT make a claim of conformance to the Section 508 standards if ANY version of content fails Test 1.D Non-interference. This includes content that is not otherwise relied upon to meet conformance.
 The results from this test are used to determine if WCAG Conformance Requirement 5 is met.
 Methods
-•	Methods used in applicable Test Conditions.
+-	Methods used in applicable Test Conditions.
 Tools
-•	Tools used in applicable Test Conditions.
+-	Tools used in applicable Test Conditions.
 Test ID	Test Name	Test Condition
 1.D	non-interference	Content in the non-conforming version(s) meets Conformance Requirement 5.
 Identifying Content
