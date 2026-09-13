@@ -1,10 +1,10 @@
 # Topic 1 Conforming Alternate Version and Non-Interference
 
 ## Topic Summary
-- Test ID 1.A (alt-version-conformant) requires that any versions of content identified as accessible alternatives PASSES all applicable Test Conditions. Remember that while alternate versions may be identified directly, they may also be identified indirectly, such as by providing user settings for accessibility.
-- Test ID 1.B (alt-version-equivalent) requires that the identified version has the same information, functionality, and language as the non-conforming version.
-- Test ID 1.C (alt-version-access) requires that the mechanism to access the identified version PASSES all applicable Test Conditions. The mechanism can include links, buttons, user preferences, instructions, and other methods.
-- Test ID 1.D (non-interference) requires that the non-conforming versions of content do not have elements that could interfere with a user’s ability to access the accessible versions. This includes auto-playing content that cannot be controlled, flashing content, and keyboard traps.
+- [Test ID 1.A (alt-version-conformant)](https://github.com/Laura-A11y/GDG-Study-Group/blob/main/Topic%201%20Conforming%20Alternate%20Version%20and%20Non-Interference.md#1a-accessible-alternate-version) requires that any versions of content identified as accessible alternatives PASSES all applicable Test Conditions. Remember that while alternate versions may be identified directly, they may also be identified indirectly, such as by providing user settings for accessibility.
+- [Test ID 1.B (alt-version-equivalent)](https://github.com/Laura-A11y/GDG-Study-Group/blob/main/Topic%201%20Conforming%20Alternate%20Version%20and%20Non-Interference.md#1b-equivalent-alternative) requires that the identified version has the same information, functionality, and language as the non-conforming version.
+- [Test ID 1.C (alt-version-access)](https://github.com/Laura-A11y/GDG-Study-Group/blob/main/Topic%201%20Conforming%20Alternate%20Version%20and%20Non-Interference.md#1b-equivalent-alternative) requires that the mechanism to access the identified version PASSES all applicable Test Conditions. The mechanism can include links, buttons, user preferences, instructions, and other methods.
+- [Test ID 1.D (non-interference)](https://github.com/Laura-A11y/GDG-Study-Group/blob/main/Topic%201%20Conforming%20Alternate%20Version%20and%20Non-Interference.md#1b-equivalent-alternative) requires that the non-conforming versions of content do not have elements that could interfere with a user’s ability to access the accessible versions. This includes auto-playing content that cannot be controlled, flashing content, and keyboard traps.
 
 ## Introduction
 ### Learning Objective
