@@ -131,7 +131,7 @@ You are testing a web page with a date input field. Users can use a calendar wid
 Since there is no version of the content identified as the accessible or conforming alternate version, this test **DOES NOT APPLY** (DNA). Both versions of the date field remain in scope of testing; you should test both versions for other applicable tests. You also mark tests 1.B Equivalent Alternative through 1.D Non-Interference as DNA as well.
 
 #### Passing Examples
-###### Example 1
+##### Example 1
 A web page offers median housing prices information in a table. The text before the table identifies it as the accessible version of this information.
  
 There is also via a “View line graph” link that opens a graph showing the same information.
@@ -266,7 +266,7 @@ The content **DOES NOT APPLY** (DNA) for 1.B Equivalent Alternative because ther
 
 
 #### Passing Examples
-###### Example 1
+##### Example 1
 A web page offers information on median house prices in two ways. The information is available through a table and an image of a graph, showing the same information on the same page. Text on the page identifies the table as the accessible alternate version.
  
 **Test for Topic 1.B Equivalent Alternative**
@@ -410,15 +410,23 @@ Test ID 1.B (alt-version-equivalent) requires that the identified version has th
  
 ## 1.C Conformant Mechanism
 **Test Requirement**
+
 In this test and the next, you will determine how the identified version is accessed by the user.
 This Test ID covers how to test the mechanism the user takes to access the accessible equivalent version. The mechanism must conform to all applicable Test Conditions. The results from this test are used to determine if WCAG’s Conforming Alternate Version requirements are met.
-Methods
+
+**Methods**
 -	Manual inspection.
-Tools
+
+**Tools**
 -	Tools used in applicable Test Conditions.
-Test ID	Test Name	Test Condition
-1.C	alt-version-access	The mechanism to reach the identified version is accessible.
-Identifying Content
+
+| Test ID     | Test Name    | Test Condition |
+| ------------- | ------------- | ------------- |
+| 1.C	 | alt-version-access | The mechanism to reach the identified version is accessible.|
+
+
+**Identifying Content**
+
 Identify the mechanism used to access the identified version. Various mechanisms may be used to reach the identified version, such as:
 -	A link to the identified version or a version for assistive technology (e.g., screen reader version)
 -	User preferences or settings to enable accessibility for a page or the entire site
@@ -428,57 +436,70 @@ Identify the mechanism used to access the identified version. Various mechanisms
 -	Providing the accessible equivalent version on the same page as the non-conforming version
 -	Text before a link to the accessible version stating that the link leads to the accessible version.
 -	Hiding non-conforming content from assistive technologies (AT) or excluding it from keyboard focus, so that users with disabilities only access the accessible version.
+
 A mechanism is widely defined as a process or technique for achieving a result. It may be explicitly provided in the content, or it may be provided by the platform or user agents, including AT. For example:
 -	A keyboard-only user would rely on the operating system and browser’s functionality to navigate using the keyboard, such as the Tab or Arrow keys.
 -	A screen reader user would likely rely on additional features provided by their screen reader to navigate the content of a web page, such as custom shortcut keys.
-Does Not Apply
+
+### Does Not Apply
 This Test Condition **DOES NOT APPLY** (DNA) if Test ID 1.A Accessible Alternate Version was DNA.
 
-How to Test 1.C Conformant Mechanism
+### How to Test 1.C Conformant Mechanism
 **From the TT Process:**
 1.	Perform Tests 2 through 20 for the mechanism used to reach the identified version.
 
-Evaluating Content
+### Evaluating Content
 **From the TT Process:**
+
 If the following is TRUE, then the content PASSES; if the following is FALSE, then this Test Condition FAILS:
 1.	The mechanism used to reach the accessible equivalent version passes all applicable Test Conditions.
 
-Does Not Apply Examples
-Example 1
+#### Does Not Apply Examples
+##### Example 1
 You are testing a single web page of a feedback form for a recent shopping experience. There is only one version of the content.
 The content **DOES NOT APPLY** (DNA) for 1.A Accessible Alternate Version since there is only one version of the content. As such, 1.C Conformant Mechanism does not apply.
 
 
-Passing Examples
-Example 1
+#### Passing Examples
+##### Example 1
 A web page offers information on median house prices in two ways. The information is available through a table and an image of a graph, showing the same information on the same page side by side. The page identifies the table as the accessible alternate version.
  
 You first identify how the accessible equivalent version is accessed. You determine that the mechanism used is to present both versions side by side on the same page.
-Test for Topic 1.C Conformant Mechanism
+**Test for Topic 1.C Conformant Mechanism**
+
 **From the TT Process:**
 1.	Perform Tests 2 through 20 for the mechanism used to reach the identified version.
+
 Both versions of the content are presented on the same page, side by side. No special interactions are needed to access the identified version. As such, the only applicable mechanisms to access the content are techniques to navigate the web page, such as a keyboard or pointing device. Therefore, no additional Test Conditions apply.
-Evaluate for Topic 1.C Conformant Mechanism
+
+**Evaluate for Topic 1.C Conformant Mechanism** 
+
 **From the TT Process:**
+
 If the following is TRUE, then the content PASSES; if the following is FALSE, then this Test Condition FAILS:
 1.	The mechanism used to reach the accessible equivalent version passes all applicable Test Conditions.
+
 TRUE: There are no other Test Conditions that apply since the mechanism does not require any additional user interaction.
 The content PASSES 1.C Conformant Mechanism because the results are TRUE.
-Example 2
+
+##### Example 2
 A web page offers user controls to modify the color contrast by providing four custom color palettes and a default option. A user can select any color combination to view the web page. You identify the option to change colors as the mechanism to provide a version for accessibility purposes.
  
-Test for Topic 1.C Conformant Mechanism
+**Test for Topic 1.C Conformant Mechanism**
 **From the TT Process:**
 1.	Perform Tests 2 through 20 for the mechanism used to reach the identified version.
+
 You return to the default page setting, which contains non-conforming content and the mechanism, the user controls for changing the text colors. You test the mechanism for all applicable tests. The mechanism passes all applicable Test Conditions.
-Evaluate for Topic 1.C Conformant Mechanism
+
+**Evaluate for Topic 1.C Conformant Mechanism**
+
 **From the TT Process:**
 If the following is TRUE, then the content PASSES; if the following is FALSE, then this Test Condition FAILS:
 1.	The mechanism used to reach the accessible equivalent version passes all applicable Test Conditions.
 TRUE: The mechanism PASSES all applicable Test Conditions.
 The content PASSES 1.C Conformant Mechanism because the results are TRUE.
 
-Failing Examples
+#### Failing Examples
 Example 1
 A web page provides a line graph of house pricing information. Below the graph is a link that reads “View accessible version,” which leads to an accessible equivalent version. The link is not keyboard accessible.
  
