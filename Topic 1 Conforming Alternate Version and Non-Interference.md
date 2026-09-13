@@ -1,5 +1,11 @@
 # Topic 1 Conforming Alternate Version and Non-Interference
 
+## Topic Summary
+- Test ID 1.A (alt-version-conformant) requires that any versions of content identified as accessible alternatives PASSES all applicable Test Conditions. Remember that while alternate versions may be identified directly, they may also be identified indirectly, such as by providing user settings for accessibility.
+- Test ID 1.B (alt-version-equivalent) requires that the identified version has the same information, functionality, and language as the non-conforming version.
+- Test ID 1.C (alt-version-access) requires that the mechanism to access the identified version PASSES all applicable Test Conditions. The mechanism can include links, buttons, user preferences, instructions, and other methods.
+- Test ID 1.D (non-interference) requires that the non-conforming versions of content do not have elements that could interfere with a user’s ability to access the accessible versions. This includes auto-playing content that cannot be controlled, flashing content, and keyboard traps.
+
 ## Introduction
 ### Learning Objective
 At the end of this Topic you will be able to:
@@ -751,8 +757,3 @@ The content FAILS 1.D Non-Interference because the test result is FALSE.
 | 1.D       | non-interference | Content in the non-conforming version(s) meets Conformance Requirement 5.  |
 Test ID 1.D (non-interference) requires that the non-conforming versions of content do not have elements that could interfere with a user’s ability to access the accessible versions. This includes auto-playing content that cannot be controlled, flashing content, and keyboard traps.
 
-## Topic Summary
-- Test ID 1.A (alt-version-conformant) requires that any versions of content identified as accessible alternatives PASSES all applicable Test Conditions. Remember that while alternate versions may be identified directly, they may also be identified indirectly, such as by providing user settings for accessibility.
-- Test ID 1.B (alt-version-equivalent) requires that the identified version has the same information, functionality, and language as the non-conforming version.
-- Test ID 1.C (alt-version-access) requires that the mechanism to access the identified version PASSES all applicable Test Conditions. The mechanism can include links, buttons, user preferences, instructions, and other methods.
-- Test ID 1.D (non-interference) requires that the non-conforming versions of content do not have elements that could interfere with a user’s ability to access the accessible versions. This includes auto-playing content that cannot be controlled, flashing content, and keyboard traps.
