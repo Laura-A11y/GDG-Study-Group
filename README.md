@@ -84,7 +84,7 @@ These testing tools are used in the Trusted Tester process.
     - [Slides session 12](https://docs.google.com/presentation/d/1IQ9XxULGwut-riNljjmnUemWkuSfaq0EWPnzqBH8wKs/edit?usp=sharing)
     - [Testing cheat sheet topic 1: Confroming Alternate Version and Non-Interference](https://docs.google.com/document/d/1UIaBc7euqNHiDyTlk8d9rTd4YGZrDo4opDTo7ZL_Smk/edit?usp=sharing)
     - Summary [Non-Interference: The 5 tests to run first](https://a11ynews.substack.com/p/non-interference-the-most-important)
-    - Summary Confromance Reporting: tbd
+    - Summary [Accessibility Audit Conformance Reporting](https://a11ynews.substack.com/p/accessibility-audit-conformance-reporting)
     - [The 5 accessibility tests to run first | Section 508 Trusted Tester: Non-Interference](https://a11ynews.substack.com/p/non-interference-the-most-important)
 
 ## Materials
